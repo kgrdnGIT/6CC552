@@ -1,0 +1,1215 @@
+@timestamp,@message
+2024-06-03 18:41:40.132,"REPORT RequestId: 2abb3f69-345e-47a4-aa5a-a96587c20351	Duration: 10014.70 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	
+"
+2024-06-03 18:41:40.086,"REPORT RequestId: b9d80777-6e1b-4954-a051-568d25e979cd	Duration: 10015.12 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 135 MB	
+"
+2024-06-03 18:41:40.039,"REPORT RequestId: 8c058d76-14b2-40bb-9417-f88354593cb5	Duration: 10005.45 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:39.960,"REPORT RequestId: 91d896e4-437d-4ba1-a865-b06003340841	Duration: 10014.83 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:39.548,"REPORT RequestId: 096233f8-a79f-4322-8451-a4841afeb7bb	Duration: 10015.17 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:39.462,"REPORT RequestId: 4f2c1207-ca4d-4a83-9577-d823783dae4a	Duration: 10014.76 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:39.398,"REPORT RequestId: f7b8bc7f-31d4-4530-bc26-6d89fd7d61a6	Duration: 10009.59 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:39.380,"REPORT RequestId: cf35f296-6c95-4557-9979-fa2ba8bcec93	Duration: 10015.35 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:39.123,"REPORT RequestId: 0d6beb9f-5caf-4021-8dfe-c3e3113b9930	Duration: 10015.42 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:38.946,"REPORT RequestId: 9a4b5a3c-94ae-47ae-be05-3e2f5f637df3	Duration: 10014.93 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:38.892,"REPORT RequestId: 6bd8eaca-04fe-44c6-bc88-0c314c5aae5c	Duration: 10014.36 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:38.649,"REPORT RequestId: 382e32d0-bbea-47f4-bbdb-4926b392a048	Duration: 10015.11 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:38.418,"REPORT RequestId: 296e1794-3240-4cc8-a862-4905fd12c61e	Duration: 10014.85 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 155 MB	
+"
+2024-06-03 18:41:38.413,"REPORT RequestId: f2b71b53-9231-43a0-bd1e-05120e688981	Duration: 10015.60 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:38.310,"REPORT RequestId: f4e7ed30-252c-490f-9e15-86a1a6a77617	Duration: 10014.95 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 155 MB	
+"
+2024-06-03 18:41:37.839,"REPORT RequestId: 1934512b-695f-4a81-9bab-e24df2ab9f48	Duration: 10014.92 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 155 MB	
+"
+2024-06-03 18:41:37.815,"REPORT RequestId: bd0d1aca-6720-4be0-96a5-11919515195d	Duration: 10014.97 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:37.636,"REPORT RequestId: 32e05951-5fc2-48ee-ba02-985c9332418f	Duration: 10016.07 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:37.592,"REPORT RequestId: 3283213f-2899-43e2-8f53-50990575155e	Duration: 10015.46 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:37.050,"REPORT RequestId: d91b2f75-6046-4a62-8d18-81bb17d6a007	Duration: 10017.00 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:36.884,"REPORT RequestId: 508bd69e-a180-43d1-bfaf-868390f4ab6b	Duration: 10016.22 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:41:36.871,"REPORT RequestId: f36269dc-d08b-4519-a5d1-17ed47ebf36a	Duration: 10016.12 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:41:36.804,"REPORT RequestId: 60d4034e-7aff-406c-a6b7-6aeac9050790	Duration: 10015.10 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:36.803,"REPORT RequestId: cde0bc7f-2013-462d-abb7-c67e1e2a1d11	Duration: 10015.74 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:36.766,"REPORT RequestId: 56e81f4a-f85a-4429-a014-0e024b88e4c9	Duration: 10014.99 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:36.749,"REPORT RequestId: a4fd2b3b-1b0f-4ba8-8f04-ef3a4016d0b6	Duration: 10016.86 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:36.699,"REPORT RequestId: cbeda79f-560a-4f64-a420-33ad87d5c9a8	Duration: 10016.35 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:41:36.649,"REPORT RequestId: c1aaf4a4-d135-4a7f-bbdb-ee7ff2fce49f	Duration: 10016.62 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:41:36.589,"REPORT RequestId: 9079a729-b6d6-4d93-97a6-4d0c224bde3d	Duration: 10014.86 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:36.497,"REPORT RequestId: 674beafb-1bb0-4025-b083-b4c664707866	Duration: 10015.40 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:36.494,"REPORT RequestId: aea3de56-6ac7-47f3-a963-a70517f4434d	Duration: 10016.44 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:36.458,"REPORT RequestId: 1bb8d137-96c1-4edf-bf40-7d993798bf74	Duration: 10015.56 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:36.414,"REPORT RequestId: 3368b3c5-6a62-4f92-bde3-47c187a8c8df	Duration: 10017.58 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:36.402,"REPORT RequestId: 6b6adb4d-edbb-4423-a857-1979fe409c84	Duration: 10015.35 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:36.306,"REPORT RequestId: 8cd95127-007d-4537-ad8d-8e47167fb276	Duration: 10014.72 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 155 MB	
+"
+2024-06-03 18:41:36.295,"REPORT RequestId: 12427ddb-e876-4f0f-94e3-dae79b4da6cc	Duration: 10016.08 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:41:36.206,"REPORT RequestId: 0837fcf6-25d5-4f67-9da5-a5604d30770d	Duration: 10016.08 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:36.202,"REPORT RequestId: 921cc1f4-a009-4bbc-a69e-4cc9890d0683	Duration: 10014.57 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:36.137,"REPORT RequestId: 77fb1554-43b7-4f18-9d0d-164ab1a7f7c8	Duration: 10015.21 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:36.036,"REPORT RequestId: b26fe2ba-0a58-43ae-a571-aba164b4a903	Duration: 10016.12 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:35.963,"REPORT RequestId: 97dd03ad-bab6-44cd-a418-bae20b6b3629	Duration: 10016.84 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:35.908,"REPORT RequestId: 5ece4547-36a0-4619-b47a-46392c48880d	Duration: 10016.84 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:35.802,"REPORT RequestId: e0238c51-2ec0-4d5e-894e-de68e76890ae	Duration: 10016.19 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:35.688,"REPORT RequestId: 60e78b1c-5ac7-4fba-a3f9-d247bbc1492d	Duration: 10015.69 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:35.642,"REPORT RequestId: da8ec84e-c081-41e8-beeb-0bc815d56d25	Duration: 10014.81 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:35.601,"REPORT RequestId: 6e57a2d2-4611-4126-9f90-a535bb16224a	Duration: 10016.18 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:41:35.492,"REPORT RequestId: 1a4260ea-dc7f-4a35-aca7-250d7cb63b7c	Duration: 10017.53 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:33.605,"REPORT RequestId: 2c9f784d-4dab-4b88-9476-2a97a223474c	Duration: 10015.82 ms	Billed Duration: 10000 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:32.291,"REPORT RequestId: ec3f9bd3-5017-41ef-8c2d-54c0e3093945	Duration: 6910.24 ms	Billed Duration: 6911 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:31.704,"REPORT RequestId: d571de45-3a7b-4c55-a96f-ee4f9b09e4aa	Duration: 6670.27 ms	Billed Duration: 6671 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:30.077,"REPORT RequestId: 9f1ee3c2-cb24-458c-b88d-bca1e3dea274	Duration: 285.08 ms	Billed Duration: 286 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	
+"
+2024-06-03 18:41:30.054,"REPORT RequestId: 0b9e987a-7d85-4848-99cd-b3d9057679b3	Duration: 349.51 ms	Billed Duration: 350 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:30.026,"REPORT RequestId: c952301e-9cbc-497b-b91b-d4ecf0d774da	Duration: 326.13 ms	Billed Duration: 327 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:29.923,"REPORT RequestId: e60a4c19-640e-4cb8-830a-dd14e80b1379	Duration: 6911.36 ms	Billed Duration: 6912 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:29.772,"REPORT RequestId: 38faf46d-4a32-4ba7-bd85-44127bc57cd7	Duration: 6675.46 ms	Billed Duration: 6676 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	
+"
+2024-06-03 18:41:29.690,"REPORT RequestId: ae435bc2-b385-409c-b862-744a039bf288	Duration: 377.79 ms	Billed Duration: 378 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:29.657,"REPORT RequestId: c1f8f906-a6b4-49e9-b68a-128030a57fb8	Duration: 241.73 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:29.509,"REPORT RequestId: 2fa2f4a5-2828-472c-94f6-6811a887f17e	Duration: 269.75 ms	Billed Duration: 270 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:29.423,"REPORT RequestId: d41bc5c6-f06f-4c19-9942-7f811924ca83	Duration: 499.92 ms	Billed Duration: 500 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:29.408,"REPORT RequestId: da13695c-7951-4205-b52b-b33e1b45eb82	Duration: 317.97 ms	Billed Duration: 318 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:29.360,"REPORT RequestId: f2d40017-d391-498c-a230-bcfe4498ed58	Duration: 443.04 ms	Billed Duration: 444 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:29.352,"REPORT RequestId: d5a94f85-4079-444c-95f5-9f2c8f8ee7ea	Duration: 6666.08 ms	Billed Duration: 6667 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:29.296,"REPORT RequestId: c2387b09-f1e9-46a7-b84a-2d69cdfb8bc1	Duration: 6850.61 ms	Billed Duration: 6851 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:29.225,"REPORT RequestId: 5ea4b50c-58f9-43dc-aa12-a071b85e7ab3	Duration: 6631.20 ms	Billed Duration: 6632 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:29.075,"REPORT RequestId: cb7aba6b-9c6c-42f5-a61c-b4e67be5ddbf	Duration: 6674.18 ms	Billed Duration: 6675 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:29.029,"REPORT RequestId: dcbf8f4a-d07b-4c99-bd9c-3163fc960bc6	Duration: 239.90 ms	Billed Duration: 240 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.902,"REPORT RequestId: 29b185ef-a10e-4bfd-8b74-0146476e199b	Duration: 6644.03 ms	Billed Duration: 6645 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:41:28.875,"REPORT RequestId: cc2a51fa-c57a-4464-a758-e35efcafab66	Duration: 6947.96 ms	Billed Duration: 6948 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.853,"REPORT RequestId: 243ea955-05db-4eac-a3ea-f4901782d435	Duration: 6883.41 ms	Billed Duration: 6884 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:28.839,"REPORT RequestId: ebca1052-0322-4b07-867c-5317ad8bea29	Duration: 743.19 ms	Billed Duration: 744 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.762,"REPORT RequestId: eb32ccc8-7c1d-4eff-aa0a-48294617c5ad	Duration: 260.20 ms	Billed Duration: 261 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.616,"REPORT RequestId: 65c0e3cd-122c-41a7-9447-a90d8da0a30a	Duration: 597.80 ms	Billed Duration: 598 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.471,"REPORT RequestId: 79ccfca8-f402-49b6-9f15-8ee29706dc12	Duration: 6931.83 ms	Billed Duration: 6932 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.347,"REPORT RequestId: e9de2754-6b27-43ea-8795-6214ee08a23f	Duration: 458.13 ms	Billed Duration: 459 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:28.334,"REPORT RequestId: 21721877-2a04-4a9d-9eb4-0e70e509338e	Duration: 709.91 ms	Billed Duration: 710 ms	Memory Size: 512 MB	Max Memory Used: 155 MB	
+"
+2024-06-03 18:41:28.227,"REPORT RequestId: 2f16ade6-9b1a-4315-acd5-bc6214e6c3d5	Duration: 469.95 ms	Billed Duration: 470 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:28.041,"REPORT RequestId: 8faa0c75-6ae4-495b-a95d-5f2e6849b638	Duration: 6752.65 ms	Billed Duration: 6753 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	
+"
+2024-06-03 18:41:28.014,"REPORT RequestId: 5d6c4d44-f854-460d-baa5-38b909e40afe	Duration: 6658.41 ms	Billed Duration: 6659 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:27.867,"REPORT RequestId: 16487884-69ba-47fe-95ce-88be1d59535b	Duration: 6673.58 ms	Billed Duration: 6674 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:27.803,"REPORT RequestId: 49ecffe4-2834-412d-92a4-578a7909d651	Duration: 876.87 ms	Billed Duration: 877 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:27.792,"REPORT RequestId: 69e9926a-63a6-4018-ba23-f08c43b8fd45	Duration: 259.46 ms	Billed Duration: 260 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:27.735,"REPORT RequestId: b0ecf369-7e4c-49fc-b9d9-e7c39a1fe803	Duration: 6670.23 ms	Billed Duration: 6671 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:27.566,"REPORT RequestId: 621da976-c42f-4cb2-90bb-3b65deaeeda3	Duration: 214.55 ms	Billed Duration: 215 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:27.552,"REPORT RequestId: 9687badf-3d9c-42ef-aa75-22b5b0d5eee0	Duration: 477.35 ms	Billed Duration: 478 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:27.548,"REPORT RequestId: d2ac8682-e1d6-4689-b8b1-705cc57c6b0e	Duration: 6823.55 ms	Billed Duration: 6824 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:27.526,"REPORT RequestId: dfba600e-ba3a-401d-946d-52eb14ff66f7	Duration: 631.14 ms	Billed Duration: 632 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:27.347,"REPORT RequestId: 1146affe-5c35-4991-8f77-a39bea428819	Duration: 314.98 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:27.031,"REPORT RequestId: ea288a09-9aad-4553-869e-b0ced632212e	Duration: 6680.34 ms	Billed Duration: 6681 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:27.026,"REPORT RequestId: 6841510d-7113-4e56-a6e9-91c33742525f	Duration: 6897.58 ms	Billed Duration: 6898 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:27.014,"REPORT RequestId: 7d6482a1-9c17-4a9d-9d86-767053541a64	Duration: 325.69 ms	Billed Duration: 326 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:26.873,"REPORT RequestId: fef245e1-c515-405e-b505-9da0c0918e0f	Duration: 6858.46 ms	Billed Duration: 6859 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:26.866,"REPORT RequestId: c23760dc-557e-461b-b83a-f5d3683191fb	Duration: 6618.57 ms	Billed Duration: 6619 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:26.792,"REPORT RequestId: 3172fa7f-4574-4a33-a2ca-f68643843579	Duration: 1196.69 ms	Billed Duration: 1197 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1714.50 ms	
+"
+2024-06-03 18:41:26.736,"REPORT RequestId: 2884e9f4-14fb-4bbe-a2a0-af3b94e44bec	Duration: 507.06 ms	Billed Duration: 508 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:26.703,"REPORT RequestId: 237eedb6-1ed4-498a-a37e-accfda7fcf19	Duration: 897.10 ms	Billed Duration: 898 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1721.06 ms	
+"
+2024-06-03 18:41:26.652,"REPORT RequestId: 897ad269-0bc6-4503-ad50-c5d94553ac27	Duration: 902.64 ms	Billed Duration: 903 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1742.59 ms	
+"
+2024-06-03 18:41:26.647,"REPORT RequestId: a4eef850-f0c2-4388-b0c2-7c1f8e12f51b	Duration: 6852.86 ms	Billed Duration: 6853 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:26.639,"REPORT RequestId: 4ccd6491-c3e2-47b9-820f-6fe84e9e09a3	Duration: 1033.61 ms	Billed Duration: 1034 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	Init Duration: 1714.37 ms	
+"
+2024-06-03 18:41:26.617,"REPORT RequestId: 01a74252-636b-48d9-a995-02bf2f332666	Duration: 942.45 ms	Billed Duration: 943 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1694.37 ms	
+"
+2024-06-03 18:41:26.612,"REPORT RequestId: 95b36f2e-b98b-4e18-af32-2ee9d973e412	Duration: 275.04 ms	Billed Duration: 276 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:26.566,"REPORT RequestId: 6d0e31c7-006b-4ca7-ba24-612b3100ee43	Duration: 506.07 ms	Billed Duration: 507 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:26.550,"REPORT RequestId: 9aba65d5-dd56-4d08-b60a-8e108f80f1f7	Duration: 1354.51 ms	Billed Duration: 1355 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1668.58 ms	
+"
+2024-06-03 18:41:26.452,"REPORT RequestId: 15664f11-6354-4d62-bf48-d49016144434	Duration: 754.54 ms	Billed Duration: 755 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1675.96 ms	
+"
+2024-06-03 18:41:26.448,"REPORT RequestId: 6060bd4b-6388-4407-97e1-a4c4b9d6e1b2	Duration: 1017.87 ms	Billed Duration: 1018 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1761.50 ms	
+"
+2024-06-03 18:41:26.411,"REPORT RequestId: e027d8a8-daee-49e6-8da0-8f861db20c45	Duration: 289.40 ms	Billed Duration: 290 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:26.332,"REPORT RequestId: 3c37d206-0b27-4ba4-ae4c-bb89438f1efa	Duration: 797.72 ms	Billed Duration: 798 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:26.326,"REPORT RequestId: 32e4dbe6-f16c-47e0-8f90-5e85d8761c7c	Duration: 1049.65 ms	Billed Duration: 1050 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1728.38 ms	
+"
+2024-06-03 18:41:26.260,"REPORT RequestId: 870710a3-83fd-48b5-85f4-e207eb17bc07	Duration: 980.76 ms	Billed Duration: 981 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1654.43 ms	
+"
+2024-06-03 18:41:26.226,"REPORT RequestId: f02e0ac7-7282-4492-b742-b5a7adfe112d	Duration: 282.16 ms	Billed Duration: 283 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:26.222,"REPORT RequestId: a72c5bb6-1a89-40d5-8a07-f437cf1f9fb9	Duration: 244.59 ms	Billed Duration: 245 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:26.157,"REPORT RequestId: 48d9509f-8dff-40c8-b0c7-df3f123336e4	Duration: 3623.72 ms	Billed Duration: 3624 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:26.145,"REPORT RequestId: 04ec8f87-c20d-403a-bca9-3285cab31392	Duration: 659.64 ms	Billed Duration: 660 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1724.62 ms	
+"
+2024-06-03 18:41:26.127,"REPORT RequestId: 1025d805-372f-4f47-8ee4-25fa8447b420	Duration: 737.63 ms	Billed Duration: 738 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1730.62 ms	
+"
+2024-06-03 18:41:26.097,"REPORT RequestId: 45aa8547-ec25-43c6-b324-c43240e8577a	Duration: 6950.83 ms	Billed Duration: 6951 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:26.094,"REPORT RequestId: efce565e-ca40-47a4-9a89-4d0fc4244a1a	Duration: 220.55 ms	Billed Duration: 221 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:26.046,"REPORT RequestId: ba41446c-70b2-45c1-b30a-ea87149b5296	Duration: 257.81 ms	Billed Duration: 258 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:25.989,"REPORT RequestId: 9a13426b-ddfc-4f36-b142-784b60b84583	Duration: 760.18 ms	Billed Duration: 761 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1694.93 ms	
+"
+2024-06-03 18:41:25.959,"REPORT RequestId: 9e422f32-0618-49a2-80d3-ac1631a071ec	Duration: 422.10 ms	Billed Duration: 423 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:25.872,"REPORT RequestId: 7ce5f6a0-ffe3-4107-9f0e-c00121391d0a	Duration: 1019.20 ms	Billed Duration: 1020 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1671.52 ms	
+"
+2024-06-03 18:41:25.864,"REPORT RequestId: 3e374d55-7eea-4ad4-8210-2da5cd9d3c22	Duration: 3668.33 ms	Billed Duration: 3669 ms	Memory Size: 512 MB	Max Memory Used: 154 MB	
+"
+2024-06-03 18:41:25.845,"REPORT RequestId: 6a6ff382-3b2d-4d3c-acd6-f068cdc6cd0a	Duration: 6657.15 ms	Billed Duration: 6658 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:25.794,"REPORT RequestId: a8e93bde-eb2b-42b8-9abb-7ff245b3843b	Duration: 720.91 ms	Billed Duration: 721 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1747.58 ms	
+"
+2024-06-03 18:41:25.770,"REPORT RequestId: 0c50738b-4e06-4e79-9971-5e0900bb3c1a	Duration: 767.14 ms	Billed Duration: 768 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1556.78 ms	
+"
+2024-06-03 18:41:25.746,"REPORT RequestId: 88b4a72b-69ca-46a2-a2b1-50d982643e3c	Duration: 6799.48 ms	Billed Duration: 6800 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:25.636,"REPORT RequestId: 8a364724-1448-413e-98a4-3465bf1d7bb3	Duration: 780.37 ms	Billed Duration: 781 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1676.16 ms	
+"
+2024-06-03 18:41:25.568,"REPORT RequestId: a43bb705-df0e-4c1b-96d1-45a4b604fd3a	Duration: 913.26 ms	Billed Duration: 914 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1708.60 ms	
+"
+2024-06-03 18:41:25.544,"REPORT RequestId: 9127a158-2894-41cd-ac6e-b1960a60455c	Duration: 3672.07 ms	Billed Duration: 3673 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:25.525,"REPORT RequestId: c1455bda-c83b-42e9-b5d4-3f79c0f6c289	Duration: 6960.21 ms	Billed Duration: 6961 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:25.489,"REPORT RequestId: 6d731588-4de1-4ed3-9fec-0921f7d88814	Duration: 6762.23 ms	Billed Duration: 6763 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:25.467,"REPORT RequestId: bb1f4ae7-c928-4e00-b081-f2f25905cc3d	Duration: 698.78 ms	Billed Duration: 699 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	Init Duration: 1704.77 ms	
+"
+2024-06-03 18:41:25.333,"REPORT RequestId: ef053cb0-2952-41ef-a521-ad46f20674aa	Duration: 534.29 ms	Billed Duration: 535 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:25.010,"REPORT RequestId: 58a05948-1ada-4873-b3c8-7de3a85cec0d	Duration: 819.47 ms	Billed Duration: 820 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:24.747,"REPORT RequestId: 044e0b00-7912-471e-8c8c-acd6b36d1952	Duration: 208.68 ms	Billed Duration: 209 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:24.517,"REPORT RequestId: 1ec0e0ee-d33f-4d29-b85f-665dca07f108	Duration: 241.70 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:24.258,"REPORT RequestId: 48b21abf-bb1c-4ebb-83c1-a13fbd2d5245	Duration: 364.15 ms	Billed Duration: 365 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:24.150,"REPORT RequestId: 0a97bd91-7bc4-46f1-96c4-514db19bfc0f	Duration: 467.07 ms	Billed Duration: 468 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.888,"REPORT RequestId: 6a5ae592-7e5b-4a6f-8da0-1fd5d1c4cf14	Duration: 422.50 ms	Billed Duration: 423 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.679,"REPORT RequestId: c180f59c-91ad-4ea7-95de-35575180a1fa	Duration: 342.51 ms	Billed Duration: 343 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.583,"REPORT RequestId: 08052994-8169-4da6-bed8-f93814fe1649	Duration: 791.66 ms	Billed Duration: 792 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1690.99 ms	
+"
+2024-06-03 18:41:23.461,"REPORT RequestId: c577e58b-8756-4c74-8829-0f9898dc4122	Duration: 489.92 ms	Billed Duration: 490 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.332,"REPORT RequestId: f6e9e9ea-8113-4b9e-bb19-3f0fbd39ffbd	Duration: 278.77 ms	Billed Duration: 279 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.092,"REPORT RequestId: cada26a5-7090-4101-ae1e-770d995e9803	Duration: 374.20 ms	Billed Duration: 375 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	
+"
+2024-06-03 18:41:23.050,"REPORT RequestId: 85816eff-7d4c-476d-ab2a-2b3c97b5211a	Duration: 426.85 ms	Billed Duration: 427 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:23.008,"REPORT RequestId: 4690dbe1-17eb-4d7d-bfe5-12fa6f146094	Duration: 546.08 ms	Billed Duration: 547 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:22.963,"REPORT RequestId: 87f3e545-c84a-4c49-82ee-eada44047432	Duration: 246.30 ms	Billed Duration: 247 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.630,"REPORT RequestId: 3023a3e7-6fb4-453a-afb9-86eb7ba90da2	Duration: 274.37 ms	Billed Duration: 275 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:22.595,"REPORT RequestId: c7953e9c-412e-4f5d-bf44-cfcccb204922	Duration: 323.97 ms	Billed Duration: 324 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.559,"REPORT RequestId: 42f179d1-65b0-4375-8a67-ad88867d096c	Duration: 531.30 ms	Billed Duration: 532 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:22.539,"REPORT RequestId: 20afbd04-82e1-4226-9238-15a4af2797ad	Duration: 427.89 ms	Billed Duration: 428 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.524,"REPORT RequestId: 73de13f6-742b-4f28-9056-7790406f01a5	Duration: 233.93 ms	Billed Duration: 234 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.398,"REPORT RequestId: 9d99cd35-10c2-4ef2-aa1a-73f05c2aa77d	Duration: 625.89 ms	Billed Duration: 626 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.371,"REPORT RequestId: 84693767-2fa5-4812-9691-a4d924e4445e	Duration: 314.32 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	
+"
+2024-06-03 18:41:22.205,"REPORT RequestId: 23d602d1-93cf-4cd6-b256-e1dccc836291	Duration: 470.88 ms	Billed Duration: 471 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:41:22.195,"REPORT RequestId: 5779fa14-d400-4ab6-be77-9885458c4119	Duration: 225.37 ms	Billed Duration: 226 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.162,"REPORT RequestId: c708afce-6b07-4202-b367-a26f33097d67	Duration: 690.09 ms	Billed Duration: 691 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:22.110,"REPORT RequestId: 7dcdb6eb-8387-435c-af57-20cc86aecee9	Duration: 388.82 ms	Billed Duration: 389 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:22.098,"REPORT RequestId: 78f2fccd-45e1-4bb9-8bc5-14a6145c36d7	Duration: 410.48 ms	Billed Duration: 411 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.931,"REPORT RequestId: b63c0f5d-f80f-48a7-a076-cd39372aaed3	Duration: 299.13 ms	Billed Duration: 300 ms	Memory Size: 512 MB	Max Memory Used: 136 MB	
+"
+2024-06-03 18:41:21.890,"REPORT RequestId: 10991238-8257-4f51-a07a-02c09ba03561	Duration: 307.85 ms	Billed Duration: 308 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:41:21.821,"REPORT RequestId: 65d8927e-1239-4b82-bb63-2d06cb84bc25	Duration: 425.19 ms	Billed Duration: 426 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:21.807,"REPORT RequestId: 0e7891fb-2b73-4221-8266-ff2935fa8adc	Duration: 551.86 ms	Billed Duration: 552 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.657,"REPORT RequestId: 647523c5-1f53-44ff-a741-68220df7d099	Duration: 371.35 ms	Billed Duration: 372 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.651,"REPORT RequestId: 74afe791-fab0-4837-9085-09dafa1ce68c	Duration: 523.15 ms	Billed Duration: 524 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.469,"REPORT RequestId: e5b0d3fd-913a-44d1-85e3-d15189311cb6	Duration: 672.25 ms	Billed Duration: 673 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:21.353,"REPORT RequestId: c5eda6db-e167-489e-9bbe-9ad9722fd04c	Duration: 394.55 ms	Billed Duration: 395 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:21.272,"REPORT RequestId: 16b5ee0c-6578-4be0-af5c-5ae5da518abd	Duration: 750.20 ms	Billed Duration: 751 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.244,"REPORT RequestId: a3aacaa8-ade9-416a-a155-8dd56e607b00	Duration: 222.69 ms	Billed Duration: 223 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.228,"REPORT RequestId: 42ae1829-d0a6-44a5-b296-463f7a0e9e7b	Duration: 319.13 ms	Billed Duration: 320 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	
+"
+2024-06-03 18:41:21.202,"REPORT RequestId: 3fb6189f-a5f1-43c5-8ac4-6cb51f538f78	Duration: 337.91 ms	Billed Duration: 338 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:21.192,"REPORT RequestId: 4da83acf-8fc9-42c0-8f5c-8f1e71a10e27	Duration: 419.21 ms	Billed Duration: 420 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:21.104,"REPORT RequestId: cec4bcee-e69d-4b7f-a8f7-afd64b10ee98	Duration: 427.81 ms	Billed Duration: 428 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:21.059,"REPORT RequestId: 1ee271da-c7b4-43bc-af9a-1e75f807cd13	Duration: 490.59 ms	Billed Duration: 491 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.976,"REPORT RequestId: e89a6952-5c10-4d99-8b3a-2b5b2af7744e	Duration: 515.13 ms	Billed Duration: 516 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:20.933,"REPORT RequestId: 5c365a66-f309-4334-914f-fc0323aaa492	Duration: 313.47 ms	Billed Duration: 314 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.914,"REPORT RequestId: 90e4c3cf-a6e2-4e8e-be2f-79fbeab301d1	Duration: 639.45 ms	Billed Duration: 640 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.663,"REPORT RequestId: 4e9017ba-7ac1-48aa-85f7-e20978db097a	Duration: 474.50 ms	Billed Duration: 475 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:20.662,"REPORT RequestId: 8f924b83-d9a4-40be-8e3d-6c95c9b71815	Duration: 751.20 ms	Billed Duration: 752 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.647,"REPORT RequestId: ac1465da-c297-4cd7-ba29-38653bc16839	Duration: 377.96 ms	Billed Duration: 378 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:20.615,"REPORT RequestId: e8d30ec6-6ae4-4a25-8f71-0842c05ac051	Duration: 227.29 ms	Billed Duration: 228 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.426,"REPORT RequestId: 4e899133-6a7f-4a35-a924-1939398a9d1b	Duration: 701.37 ms	Billed Duration: 702 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.299,"REPORT RequestId: c4f4467d-2236-4960-ad3d-ce246cf6391d	Duration: 678.62 ms	Billed Duration: 679 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:20.281,"REPORT RequestId: c1abe902-057c-4254-b264-45c229b69dc6	Duration: 426.17 ms	Billed Duration: 427 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.279,"REPORT RequestId: ce1649b6-c57f-4df5-83cd-fb6978afdf3f	Duration: 219.70 ms	Billed Duration: 220 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.236,"REPORT RequestId: 2f5eebf2-35bf-48a9-bb53-5b5f1e3c7311	Duration: 279.41 ms	Billed Duration: 280 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:20.097,"REPORT RequestId: 10b3260d-aed2-46fc-95e8-86c051338008	Duration: 532.13 ms	Billed Duration: 533 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:20.049,"REPORT RequestId: c93077ff-863c-441d-b4b4-c77f71642a9e	Duration: 247.63 ms	Billed Duration: 248 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:20.045,"REPORT RequestId: 081e8c24-40a8-407d-a9d2-d3dd26d819ee	Duration: 581.15 ms	Billed Duration: 582 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:20.014,"REPORT RequestId: 358f4a19-8d3e-4f43-9fc0-a11e7ba343da	Duration: 336.22 ms	Billed Duration: 337 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:20.002,"REPORT RequestId: c98d5c18-fda1-4c81-8696-99e28e9789b5	Duration: 453.52 ms	Billed Duration: 454 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.819,"REPORT RequestId: 415c6876-a72c-4c24-b11a-f77232247e5c	Duration: 812.32 ms	Billed Duration: 813 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.713,"REPORT RequestId: 8b1d47b0-2767-447a-a670-ab3dd7207b10	Duration: 443.20 ms	Billed Duration: 444 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.695,"REPORT RequestId: fac4e379-3149-4cd9-abce-121b86a0e7fe	Duration: 311.87 ms	Billed Duration: 312 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:41:19.664,"REPORT RequestId: abd8b785-d41c-46cf-b09b-53da23f4f3fd	Duration: 431.78 ms	Billed Duration: 432 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:19.618,"REPORT RequestId: ba6d8869-cd5d-4040-904c-dbed43ac4cec	Duration: 275.25 ms	Billed Duration: 276 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.538,"REPORT RequestId: c778a0c0-f28c-4c5c-bd02-af7281c74a0f	Duration: 264.31 ms	Billed Duration: 265 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.439,"REPORT RequestId: d44fba00-4eb7-44eb-a050-4717d9f9db83	Duration: 365.16 ms	Billed Duration: 366 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.215,"REPORT RequestId: 4b4a6c24-55a5-4eeb-93c5-36b3523b8cf5	Duration: 419.15 ms	Billed Duration: 420 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:19.204,"REPORT RequestId: e1f618e7-ab9b-431c-ac9c-d99b16c4c653	Duration: 301.84 ms	Billed Duration: 302 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.192,"REPORT RequestId: dc4b47ab-7352-471a-b4ea-5da8d2c337d3	Duration: 568.40 ms	Billed Duration: 569 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.120,"REPORT RequestId: b6195e19-ab47-4050-8ff7-6c025f24c160	Duration: 237.59 ms	Billed Duration: 238 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:19.062,"REPORT RequestId: 0ba7924f-9b00-4f73-928e-df9192a76db0	Duration: 289.18 ms	Billed Duration: 290 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.980,"REPORT RequestId: 17cb380b-458d-4ab4-8ce4-a1133f405125	Duration: 729.57 ms	Billed Duration: 730 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.978,"REPORT RequestId: c9ac11c9-6702-4887-82f5-0b9299f11d96	Duration: 298.88 ms	Billed Duration: 299 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:18.904,"REPORT RequestId: e1670cb3-a7e6-48f8-9803-f544080e75d3	Duration: 387.40 ms	Billed Duration: 388 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.868,"REPORT RequestId: ae5ece50-fb59-4f7c-ae2b-aa087ac50a5e	Duration: 405.53 ms	Billed Duration: 406 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.847,"REPORT RequestId: ff400170-3518-4616-a64d-e257e3bd8c27	Duration: 434.31 ms	Billed Duration: 435 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.780,"REPORT RequestId: 7a2a5ea8-9928-4780-8055-8121bed46632	Duration: 505.74 ms	Billed Duration: 506 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:18.609,"REPORT RequestId: b0fddd9b-f68d-4e26-97ad-e85dbb9b7025	Duration: 375.02 ms	Billed Duration: 376 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.596,"REPORT RequestId: d6c3ac29-8b21-4057-a9de-e26c18525249	Duration: 323.19 ms	Billed Duration: 324 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:18.585,"REPORT RequestId: a57404a9-0e91-44c4-b9ad-d88f791f320c	Duration: 221.82 ms	Billed Duration: 222 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.539,"REPORT RequestId: 7c3c6c94-bf1e-4227-94bd-dee67b226670	Duration: 309.88 ms	Billed Duration: 310 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.287,"REPORT RequestId: 4a5bee31-042a-4e22-9a74-f3f48b6fe596	Duration: 235.85 ms	Billed Duration: 236 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.270,"REPORT RequestId: 798caa2e-d8e1-4ac9-a00b-d0241d962fcf	Duration: 256.44 ms	Billed Duration: 257 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.192,"REPORT RequestId: c131be6d-f853-4a1d-9614-55dbfcbac03d	Duration: 241.46 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.146,"REPORT RequestId: 653dd77e-4c8e-4c7d-87a5-40a9001bb391	Duration: 242.03 ms	Billed Duration: 243 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.113,"REPORT RequestId: c507111a-aa81-4767-b0e6-5407f181daab	Duration: 317.65 ms	Billed Duration: 318 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.083,"REPORT RequestId: 482ee038-164f-4729-8d16-00b20ba3c28b	Duration: 227.51 ms	Billed Duration: 228 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:18.082,"REPORT RequestId: d8fb133c-b873-4ff2-b1a4-a94128c7528b	Duration: 557.17 ms	Billed Duration: 558 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:18.069,"REPORT RequestId: 9ffde2df-e930-415e-bf92-daad11a1056a	Duration: 495.83 ms	Billed Duration: 496 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.068,"REPORT RequestId: 98724c61-cbb2-42b4-bbc5-6f48e99c0a6c	Duration: 291.42 ms	Billed Duration: 292 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.019,"REPORT RequestId: bb98b1b8-557a-45f0-b564-9096ece26f0d	Duration: 391.66 ms	Billed Duration: 392 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:18.008,"REPORT RequestId: 54289ae4-ebbe-4ddf-8669-9f7b59126a98	Duration: 309.32 ms	Billed Duration: 310 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.955,"REPORT RequestId: 148b8fd9-0275-4159-816a-1f856908f82d	Duration: 228.41 ms	Billed Duration: 229 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.799,"REPORT RequestId: a437fbfd-138b-46f2-9668-de8e531f59f4	Duration: 525.77 ms	Billed Duration: 526 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:17.785,"REPORT RequestId: 49a4cb22-f48d-4462-ac7c-981b11067107	Duration: 399.51 ms	Billed Duration: 400 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.726,"REPORT RequestId: f2f14c80-57df-4d8c-a243-bda4126dbe3b	Duration: 239.09 ms	Billed Duration: 240 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.725,"REPORT RequestId: b3f157f6-0d3a-44b2-b57e-6ae78331e0a1	Duration: 543.06 ms	Billed Duration: 544 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.687,"REPORT RequestId: cff826a2-b42a-46b8-9b18-5943717375f6	Duration: 455.88 ms	Billed Duration: 456 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.588,"REPORT RequestId: 037013ab-c0b9-4963-ad31-99124fde122f	Duration: 314.11 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.584,"REPORT RequestId: db43a784-6be3-48cd-9af3-f5ed9a91121f	Duration: 240.63 ms	Billed Duration: 241 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.553,"REPORT RequestId: 9828f206-7dc2-4389-9482-05f28084cd0d	Duration: 499.74 ms	Billed Duration: 500 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.490,"REPORT RequestId: 535c37c4-a4e5-41e7-a7c6-da30c038c6d9	Duration: 480.37 ms	Billed Duration: 481 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:17.416,"REPORT RequestId: 6e51ea3b-767a-44d5-84d7-2bbe402dde9c	Duration: 267.98 ms	Billed Duration: 268 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.383,"REPORT RequestId: 163f6641-fbdd-46ea-a655-df0fdfe503d9	Duration: 572.90 ms	Billed Duration: 573 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.259,"REPORT RequestId: e01bcb0c-ef7b-4d85-bb43-15eaf7d858a9	Duration: 463.17 ms	Billed Duration: 464 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:17.161,"REPORT RequestId: eb68e608-9ff6-4210-a503-743784e53563	Duration: 212.48 ms	Billed Duration: 213 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.150,"REPORT RequestId: 2ef482d8-da23-4fa8-8ad3-9f079f24aa33	Duration: 425.04 ms	Billed Duration: 426 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.132,"REPORT RequestId: 161d26f6-11f7-471a-9f41-588b85bf74af	Duration: 235.13 ms	Billed Duration: 236 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.099,"REPORT RequestId: 3d60d247-5de4-45c9-83d3-60b9cbfff260	Duration: 240.62 ms	Billed Duration: 241 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.042,"REPORT RequestId: fd1ff264-8e46-4445-b284-d4e830afff24	Duration: 424.52 ms	Billed Duration: 425 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:17.036,"REPORT RequestId: fbdccaa3-05d7-45f8-a1b6-9220f36ec6f0	Duration: 801.27 ms	Billed Duration: 802 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.969,"REPORT RequestId: 72684959-b853-4117-a8f7-990fe2db64c1	Duration: 400.01 ms	Billed Duration: 401 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:16.961,"REPORT RequestId: d07ae23b-c948-4a78-9791-674b2dbfe277	Duration: 283.38 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.843,"REPORT RequestId: ba5c4ee5-4668-4eef-aff7-8bc6f1cda377	Duration: 361.87 ms	Billed Duration: 362 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.831,"REPORT RequestId: 1b00ece3-9b40-46cd-b7d9-7cbfd68cbf03	Duration: 309.12 ms	Billed Duration: 310 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.792,"REPORT RequestId: 14446528-8712-4701-a8c9-7775a37f6d2f	Duration: 641.15 ms	Billed Duration: 642 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.674,"REPORT RequestId: bd1c5576-7396-45a9-8a66-6346a3c5e4d4	Duration: 375.02 ms	Billed Duration: 376 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.669,"REPORT RequestId: 4f04a9a9-b0cb-465a-870c-2e9d06595ae7	Duration: 277.01 ms	Billed Duration: 278 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.611,"REPORT RequestId: a485afe1-be94-436e-b98b-2957be768992	Duration: 270.25 ms	Billed Duration: 271 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.590,"REPORT RequestId: 1d62aa16-47de-4410-8251-2f6905e6ed43	Duration: 314.85 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:16.544,"REPORT RequestId: 211c7441-2464-40ad-8884-fb620d96de4f	Duration: 360.18 ms	Billed Duration: 361 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:16.538,"REPORT RequestId: 4cd5b5c3-a0d6-453a-afd8-f68fbf71513d	Duration: 527.98 ms	Billed Duration: 528 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.392,"REPORT RequestId: 5435fb78-80c6-4ddb-b3f9-8a71491b4403	Duration: 419.46 ms	Billed Duration: 420 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.352,"REPORT RequestId: 0ec29bce-9792-4a83-b284-b9f032077983	Duration: 296.36 ms	Billed Duration: 297 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.206,"REPORT RequestId: 5c072f98-e9d0-482b-8fd4-794d0797e175	Duration: 487.85 ms	Billed Duration: 488 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.198,"REPORT RequestId: 6ed3353c-7f7a-4098-8521-6e1ab3d2d55a	Duration: 398.20 ms	Billed Duration: 399 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:16.193,"REPORT RequestId: 1242eb89-d095-4d8d-95ae-2564f7b33992	Duration: 735.24 ms	Billed Duration: 736 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.184,"REPORT RequestId: a321f370-9234-4dd7-8f92-9d453ab23dbe	Duration: 327.85 ms	Billed Duration: 328 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.155,"REPORT RequestId: d2cbe0ed-561c-4c58-96e5-04bfeade6319	Duration: 253.23 ms	Billed Duration: 254 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:16.044,"REPORT RequestId: 443ded03-6ede-413e-9d0e-90cc1d1a3aa1	Duration: 501.86 ms	Billed Duration: 502 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.036,"REPORT RequestId: 886770b8-5151-4d64-b3c2-f1c86f26beb6	Duration: 241.39 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:16.017,"REPORT RequestId: 543207be-ec0f-4fcd-b20c-26b3b6d858a4	Duration: 393.89 ms	Billed Duration: 394 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.958,"REPORT RequestId: 8ad57142-dc39-487e-a65d-6b2b8e7e270a	Duration: 283.75 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.947,"REPORT RequestId: 1e315747-45f6-4f55-bbb9-e53e727ce4d0	Duration: 605.29 ms	Billed Duration: 606 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.818,"REPORT RequestId: 964b8fed-3b79-4a7d-8de5-aff90977bdf5	Duration: 434.22 ms	Billed Duration: 435 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.802,"REPORT RequestId: 820bd27d-1528-441f-a26b-3c8d07859ba0	Duration: 232.94 ms	Billed Duration: 233 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:15.686,"REPORT RequestId: af2d2fc8-163e-4f35-a122-47d54e4e3c6a	Duration: 537.85 ms	Billed Duration: 538 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.639,"REPORT RequestId: f9fbef16-b42e-42f3-8e52-4cef23c512b2	Duration: 737.59 ms	Billed Duration: 738 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.613,"REPORT RequestId: 796cb108-e362-4e87-a4f4-e4eee2db6071	Duration: 407.73 ms	Billed Duration: 408 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.605,"REPORT RequestId: f9a878b5-3283-4889-bf26-096c648d94b8	Duration: 305.99 ms	Billed Duration: 306 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.592,"REPORT RequestId: bdf992a8-3f26-42e4-8548-88b598952cc8	Duration: 854.93 ms	Billed Duration: 855 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:15.570,"REPORT RequestId: 8ee4bcbe-779c-451f-82a2-c6e6364d109d	Duration: 492.93 ms	Billed Duration: 493 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.527,"REPORT RequestId: aa7f0ffa-a493-495f-a740-1215dac2aae8	Duration: 519.35 ms	Billed Duration: 520 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.506,"REPORT RequestId: 69c06b07-8fb9-4d15-9cf6-7d3ff7785cc8	Duration: 232.55 ms	Billed Duration: 233 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:15.434,"REPORT RequestId: 5e9e6f36-73dd-44f3-b485-58300be0babc	Duration: 199.63 ms	Billed Duration: 200 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.356,"REPORT RequestId: 3d4affbb-a5f7-4386-b29c-49e775f36c60	Duration: 579.28 ms	Billed Duration: 580 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.239,"REPORT RequestId: 72fe6a34-6f36-41b3-8bbb-33818c381ffe	Duration: 446.13 ms	Billed Duration: 447 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:15.223,"REPORT RequestId: 1aedf859-2f06-4d60-a4f6-45a119f00104	Duration: 276.72 ms	Billed Duration: 277 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:15.107,"REPORT RequestId: 11b48071-fa3d-42f2-a7dd-255b54d646c0	Duration: 255.44 ms	Billed Duration: 256 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.916,"REPORT RequestId: 3a0dc908-c78e-47cf-907a-20745a57b2bd	Duration: 237.37 ms	Billed Duration: 238 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.848,"REPORT RequestId: 7268c4ea-7df3-401e-a690-18ffaf2fd97f	Duration: 228.56 ms	Billed Duration: 229 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.817,"REPORT RequestId: a1cdcb69-40b5-442c-a685-9479f1c97f89	Duration: 576.58 ms	Billed Duration: 577 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.807,"REPORT RequestId: 3884472d-0f82-43d4-851e-df70d2ea6dcb	Duration: 237.58 ms	Billed Duration: 238 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.768,"REPORT RequestId: 3eeb9eae-e7b7-46a3-b24e-0d0bd6871f7b	Duration: 493.76 ms	Billed Duration: 494 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.752,"REPORT RequestId: ffaded33-c2f4-4e73-aeea-e24242754539	Duration: 230.68 ms	Billed Duration: 231 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:14.685,"REPORT RequestId: cac0e002-d4a9-475f-b8e9-fc2c802655a3	Duration: 300.33 ms	Billed Duration: 301 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:14.677,"REPORT RequestId: 2af4841d-2be8-4e80-bd84-fb86d296ca30	Duration: 323.57 ms	Billed Duration: 324 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.667,"REPORT RequestId: c47dc26b-1e65-460a-ac30-9c692a4e7dea	Duration: 208.65 ms	Billed Duration: 209 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.584,"REPORT RequestId: 45bd2688-74ff-4ae1-925f-63d8c973416f	Duration: 567.24 ms	Billed Duration: 568 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.573,"REPORT RequestId: ed5d24fe-9992-4164-9e4b-6fd710c5aea4	Duration: 446.09 ms	Billed Duration: 447 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.524,"REPORT RequestId: f71ba459-bf91-4b86-bf5f-84f277874674	Duration: 468.57 ms	Billed Duration: 469 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.485,"REPORT RequestId: 42913976-adfb-47d3-88a0-b53461dd202d	Duration: 211.91 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:14.444,"REPORT RequestId: a176124a-7504-466e-84ea-4214d211da23	Duration: 255.93 ms	Billed Duration: 256 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.380,"REPORT RequestId: af6ede6d-203e-4050-b872-5dd0f640c14a	Duration: 428.74 ms	Billed Duration: 429 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:14.343,"REPORT RequestId: b67689d2-3734-44c9-96bd-1ec2b8ef845e	Duration: 484.17 ms	Billed Duration: 485 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.277,"REPORT RequestId: 86fb4616-f3f7-4740-b2c2-8f95260266d1	Duration: 557.83 ms	Billed Duration: 558 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.195,"REPORT RequestId: 2fa6166d-40ae-40fa-a0de-363bc4e6e475	Duration: 400.80 ms	Billed Duration: 401 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.163,"REPORT RequestId: dcd61234-567f-4753-878c-28359760b7b9	Duration: 261.04 ms	Billed Duration: 262 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.132,"REPORT RequestId: 687822f9-9eef-4ef9-86f3-60a6b1b4a318	Duration: 443.64 ms	Billed Duration: 444 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:14.068,"REPORT RequestId: fa0a12d8-1f48-4b88-a901-039b99692457	Duration: 295.41 ms	Billed Duration: 296 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:14.055,"REPORT RequestId: 693b07c8-87fc-41c2-9d45-6cbf487b80aa	Duration: 591.24 ms	Billed Duration: 592 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.994,"REPORT RequestId: fa4836ca-1f04-496d-8e02-14f8e666bcdf	Duration: 419.49 ms	Billed Duration: 420 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.922,"REPORT RequestId: 997e9a3e-980c-4269-9c29-ddfe49e1c07d	Duration: 305.82 ms	Billed Duration: 306 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:13.844,"REPORT RequestId: 52d2eba9-7cd9-46bc-b6ef-09ec5b647e87	Duration: 319.32 ms	Billed Duration: 320 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.832,"REPORT RequestId: b943d2af-22ed-4ead-ba54-e21dee7ea6ee	Duration: 642.84 ms	Billed Duration: 643 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.789,"REPORT RequestId: 78a5d6be-a861-498e-a6d5-8d6297b9b343	Duration: 446.33 ms	Billed Duration: 447 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.604,"REPORT RequestId: 6cd698ea-5c2d-40a6-ac17-b174a1e175a1	Duration: 217.43 ms	Billed Duration: 218 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:13.566,"REPORT RequestId: b53592f4-9584-4df8-b5ea-a4b4aef83004	Duration: 290.84 ms	Billed Duration: 291 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.554,"REPORT RequestId: 3a7b02b8-8884-4e91-a85d-b297380a719d	Duration: 489.39 ms	Billed Duration: 490 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:41:13.501,"REPORT RequestId: 8ae9d8a7-16c8-44bb-a227-a00617ccbcd6	Duration: 225.38 ms	Billed Duration: 226 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.470,"REPORT RequestId: 98614298-b07e-4a67-9d4d-11c8d2460bb4	Duration: 234.28 ms	Billed Duration: 235 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.463,"REPORT RequestId: 11490c76-d073-470f-bcfc-6eb759fbd74d	Duration: 445.10 ms	Billed Duration: 446 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.436,"REPORT RequestId: 941d4d17-09c6-4ff3-bc5a-63fcd7175e2e	Duration: 310.01 ms	Billed Duration: 311 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.417,"REPORT RequestId: 5c9ee049-71cd-4a7a-b0cd-5b3a689df14f	Duration: 455.69 ms	Billed Duration: 456 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.289,"REPORT RequestId: 83c0468e-9944-4676-8023-3ae1b48b1b92	Duration: 494.02 ms	Billed Duration: 495 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.179,"REPORT RequestId: 1f645496-3668-4343-8228-87d8438584c1	Duration: 279.52 ms	Billed Duration: 280 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.169,"REPORT RequestId: f1ca5fc9-87e1-405a-bce1-319761c085ca	Duration: 448.73 ms	Billed Duration: 449 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.080,"REPORT RequestId: fdacd21b-aa6c-4625-8c11-4a96f2821534	Duration: 226.83 ms	Billed Duration: 227 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.016,"REPORT RequestId: defe7ba7-15d0-4f39-b96c-9f3a5be5cc38	Duration: 237.64 ms	Billed Duration: 238 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:13.003,"REPORT RequestId: 8e415063-a526-43d8-9df0-82ba19c0c75f	Duration: 437.18 ms	Billed Duration: 438 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.970,"REPORT RequestId: 20ff6083-b22a-4b4d-b2db-45c026e2383f	Duration: 508.76 ms	Billed Duration: 509 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.904,"REPORT RequestId: b81d6979-f8e5-4f25-9a77-c90328716c0d	Duration: 225.25 ms	Billed Duration: 226 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.898,"REPORT RequestId: 3d3491dc-47ab-4ddb-9ad5-5fb075450e0f	Duration: 281.40 ms	Billed Duration: 282 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.890,"REPORT RequestId: f1333765-2332-4c53-bc50-fbee485b9fa8	Duration: 501.16 ms	Billed Duration: 502 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.856,"REPORT RequestId: cd9863af-bfe6-405b-8513-df06dc196273	Duration: 333.60 ms	Billed Duration: 334 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:12.659,"REPORT RequestId: 8397dea3-5c3f-46b8-8e8f-70a1091349bc	Duration: 418.67 ms	Billed Duration: 419 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.632,"REPORT RequestId: acf705ef-7943-4696-bc35-4ebc6b99a02e	Duration: 356.18 ms	Billed Duration: 357 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.577,"REPORT RequestId: 2c24d3a2-0147-40ca-ad76-2d1ec37f3725	Duration: 228.09 ms	Billed Duration: 229 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.542,"REPORT RequestId: 76f7fd8e-be9c-455d-88a0-317ec15e283d	Duration: 350.71 ms	Billed Duration: 351 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.504,"REPORT RequestId: 263054bb-4b8b-4384-9b60-7b95fd2cb382	Duration: 887.60 ms	Billed Duration: 888 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:12.498,"REPORT RequestId: 2731b8bd-b922-45f1-899a-438108b4ad51	Duration: 227.58 ms	Billed Duration: 228 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.473,"REPORT RequestId: 936b1007-0fdd-452b-82fa-ec30957dad8c	Duration: 465.08 ms	Billed Duration: 466 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.446,"REPORT RequestId: e132a6ce-1da1-4ded-80dd-4808464f8618	Duration: 669.77 ms	Billed Duration: 670 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.400,"REPORT RequestId: 352c5934-160c-4e6c-8b00-76fc0a875a2b	Duration: 268.38 ms	Billed Duration: 269 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.356,"REPORT RequestId: 3b39d3bd-d43d-4d35-857e-3ac496acd870	Duration: 439.86 ms	Billed Duration: 440 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.277,"REPORT RequestId: 891ab0d3-167a-43e5-b130-091ea625446a	Duration: 222.00 ms	Billed Duration: 222 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.252,"REPORT RequestId: 3456d829-913c-4137-bac5-c85f4dedf84a	Duration: 458.88 ms	Billed Duration: 459 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.180,"REPORT RequestId: 020af902-96d4-482f-91ab-a1511a34fc02	Duration: 598.72 ms	Billed Duration: 599 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.172,"REPORT RequestId: 2208f0f7-90a8-483d-a53d-d85a20b6ce73	Duration: 215.01 ms	Billed Duration: 216 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.099,"REPORT RequestId: f6998fd9-c6df-4b4a-b6c4-35222a451b3c	Duration: 231.23 ms	Billed Duration: 232 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:12.044,"REPORT RequestId: 1934a58a-ad14-41ba-ad9f-545fd0395d0c	Duration: 467.10 ms	Billed Duration: 468 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.980,"REPORT RequestId: 5f285130-3ada-4e09-ada7-140fc433b2fc	Duration: 516.80 ms	Billed Duration: 517 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.969,"REPORT RequestId: 55d743bd-3271-4766-b63a-84f006d62c2b	Duration: 288.08 ms	Billed Duration: 289 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.936,"REPORT RequestId: bfa91220-1a35-4147-bb83-1a9688bf897a	Duration: 211.63 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.924,"REPORT RequestId: f8ea22a0-fe8f-43f3-b883-4100bd648dda	Duration: 580.34 ms	Billed Duration: 581 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.718,"REPORT RequestId: 8a1d7b57-8e4d-45e5-8674-bd110b77491a	Duration: 430.50 ms	Billed Duration: 431 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.702,"REPORT RequestId: 6ce11269-2d5e-458f-b022-5c9d575000dd	Duration: 316.12 ms	Billed Duration: 317 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.621,"REPORT RequestId: 8c16a7e4-8390-46ce-af3a-b6db70a8972a	Duration: 492.80 ms	Billed Duration: 493 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.489,"REPORT RequestId: 3051eb2a-f113-4bd9-990d-3bdfac84ccad	Duration: 406.05 ms	Billed Duration: 407 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.486,"REPORT RequestId: c22d200d-0fd7-49aa-8a44-77d811103d31	Duration: 211.52 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.457,"REPORT RequestId: a84a1cc2-a076-4643-962e-7258498cdc3c	Duration: 220.79 ms	Billed Duration: 221 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.423,"REPORT RequestId: 1b815397-3241-4c14-97c8-640fae18bbc6	Duration: 227.96 ms	Billed Duration: 228 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:11.373,"REPORT RequestId: d17ad1c8-b0fd-4b5b-87cf-f186153c6041	Duration: 363.37 ms	Billed Duration: 364 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.279,"REPORT RequestId: d58ad9bd-1d36-485f-bcf1-3a2214f30371	Duration: 368.19 ms	Billed Duration: 369 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.192,"REPORT RequestId: 1f5109e4-7067-45ec-ab91-61f1e45d78dd	Duration: 243.22 ms	Billed Duration: 244 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.186,"REPORT RequestId: 1384d1c2-ca8a-4cd5-bdd3-fbfa1b6702de	Duration: 331.25 ms	Billed Duration: 332 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:11.117,"REPORT RequestId: 3a4526f4-b9d2-4b74-8250-9b5fe1d3a4aa	Duration: 549.50 ms	Billed Duration: 550 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.115,"REPORT RequestId: 1e2908c4-4c93-49dc-aae8-f1c9dfed8587	Duration: 335.22 ms	Billed Duration: 336 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.054,"REPORT RequestId: 70e1cb77-1cb2-48fe-9090-d12ccd213134	Duration: 592.52 ms	Billed Duration: 593 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:11.000,"REPORT RequestId: 82d83788-1ee5-434a-b525-afbe452883d6	Duration: 217.41 ms	Billed Duration: 218 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.936,"REPORT RequestId: 27a9a975-26f2-4e6d-a887-1103108f5fde	Duration: 211.31 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.902,"REPORT RequestId: 5af64319-409c-41a5-94a1-7c02443ca665	Duration: 224.78 ms	Billed Duration: 225 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.865,"REPORT RequestId: 023ff0f6-9b9f-4bf6-be42-36437d15204b	Duration: 845.84 ms	Billed Duration: 846 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.841,"REPORT RequestId: d7d141f6-e664-43c8-958a-e179db84e709	Duration: 317.47 ms	Billed Duration: 318 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:10.822,"REPORT RequestId: 5fa582bd-b83f-4657-ae88-6c34445e2a96	Duration: 204.67 ms	Billed Duration: 205 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.796,"REPORT RequestId: cb664160-a04e-4fa7-af52-4f79df84a98b	Duration: 522.97 ms	Billed Duration: 523 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.734,"REPORT RequestId: 7d1ff53a-0db3-4497-b2a8-f3ef5b5c4733	Duration: 345.11 ms	Billed Duration: 346 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.696,"REPORT RequestId: 645bd3f5-908a-448c-bf0f-2f8c746a2f63	Duration: 499.43 ms	Billed Duration: 500 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.667,"REPORT RequestId: f4546aa0-0501-4f44-b7b8-cfd03351093c	Duration: 405.21 ms	Billed Duration: 406 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.645,"REPORT RequestId: 14e74334-23d5-4235-85f1-7b09077801e7	Duration: 669.51 ms	Billed Duration: 670 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.638,"REPORT RequestId: 8bfb16df-47cc-4427-b441-c5a1ce708333	Duration: 293.16 ms	Billed Duration: 294 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.540,"REPORT RequestId: 5cf683cd-9aa0-4d26-8453-acb0214033e3	Duration: 266.30 ms	Billed Duration: 267 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.499,"REPORT RequestId: b6c7ca3e-5842-43e0-9f2a-ec3c272f04b7	Duration: 587.05 ms	Billed Duration: 588 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:10.490,"REPORT RequestId: 3cf9c292-d03d-4813-a791-048037812e62	Duration: 428.81 ms	Billed Duration: 429 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.363,"REPORT RequestId: 5c914f5e-fc2e-445d-a34a-fcc46c4d6983	Duration: 235.37 ms	Billed Duration: 236 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.333,"REPORT RequestId: ffabd8ae-561e-4125-8810-0b21ef650282	Duration: 474.97 ms	Billed Duration: 475 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.120,"REPORT RequestId: 9efaab20-134d-4d8d-842c-ebc7289d0e81	Duration: 325.86 ms	Billed Duration: 326 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.056,"REPORT RequestId: 433074ec-0004-4c27-9544-5f6efae8f52c	Duration: 280.41 ms	Billed Duration: 281 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.032,"REPORT RequestId: 261c4f65-7edd-4db2-9ab9-585428dd5128	Duration: 310.71 ms	Billed Duration: 311 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:10.000,"REPORT RequestId: 77669c55-7d78-47ad-8a9a-e52e6abb3ce7	Duration: 433.70 ms	Billed Duration: 434 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.952,"REPORT RequestId: e1841ac2-6aeb-439b-9c47-46cd09e5b900	Duration: 269.94 ms	Billed Duration: 270 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:09.913,"REPORT RequestId: 17fa87cd-50b8-4a7f-a8a7-526ef80f5d3a	Duration: 287.91 ms	Billed Duration: 288 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.877,"REPORT RequestId: b0c7cbe4-8dc7-493a-91f2-dc5f611f6558	Duration: 580.49 ms	Billed Duration: 581 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:09.834,"REPORT RequestId: 188ab671-89d8-4377-9b62-9cfec36a3353	Duration: 310.89 ms	Billed Duration: 311 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.771,"REPORT RequestId: 890993dc-b2bc-4115-b2ff-4f5580417e76	Duration: 309.75 ms	Billed Duration: 310 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.746,"REPORT RequestId: 2e783157-dcfe-48e6-8dce-98a18bf70739	Duration: 508.08 ms	Billed Duration: 509 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.741,"REPORT RequestId: 2dce7733-fe38-4434-93d7-3b373148df00	Duration: 391.97 ms	Billed Duration: 392 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.726,"REPORT RequestId: f7b12445-ea75-4949-8eff-820f6c0ad38a	Duration: 709.04 ms	Billed Duration: 710 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.711,"REPORT RequestId: b3499a26-947b-471c-add2-e02d1cd7cf7d	Duration: 412.13 ms	Billed Duration: 413 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.501,"REPORT RequestId: 61108fae-4eff-4e44-9368-c51c63847e8d	Duration: 283.98 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.438,"REPORT RequestId: be2e0874-5e1c-4b91-9106-80d983588229	Duration: 248.52 ms	Billed Duration: 249 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.434,"REPORT RequestId: ea4bbc4a-4e59-4f91-b5fb-020dc78c0b21	Duration: 305.95 ms	Billed Duration: 306 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.402,"REPORT RequestId: fb956dd4-5f77-4c05-b0e2-3ffb65d5e55c	Duration: 439.80 ms	Billed Duration: 440 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.292,"REPORT RequestId: a2fad4fe-0f91-4673-b61c-43ca6ea2bd6d	Duration: 592.34 ms	Billed Duration: 593 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.255,"REPORT RequestId: 76267895-0ad6-409a-8278-f38d3e4873c2	Duration: 693.68 ms	Billed Duration: 694 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:09.196,"REPORT RequestId: 4f4a1a04-9f69-4f74-836c-1125762a676f	Duration: 288.15 ms	Billed Duration: 289 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.161,"REPORT RequestId: 2221067d-9de7-4ea1-bfda-d768871a03f7	Duration: 364.72 ms	Billed Duration: 365 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.152,"REPORT RequestId: 3389f50b-6125-41b2-a313-f45b0d78b808	Duration: 288.98 ms	Billed Duration: 289 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:09.024,"REPORT RequestId: 83af71f4-5909-40c5-affd-a3532020b700	Duration: 238.55 ms	Billed Duration: 239 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.973,"REPORT RequestId: 3c96dbce-f750-449c-b902-38de7ecbb905	Duration: 353.80 ms	Billed Duration: 354 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.938,"REPORT RequestId: 46fe7eb2-f661-4758-8fd9-a31682181006	Duration: 211.70 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.904,"REPORT RequestId: 18f9f694-6fb3-4583-a391-bcc242db89b1	Duration: 627.15 ms	Billed Duration: 628 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.778,"REPORT RequestId: 3366b06e-894c-450d-a91b-1fb18b97b8c6	Duration: 262.51 ms	Billed Duration: 263 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.741,"REPORT RequestId: d6dd3bff-fd9f-430a-a80e-d679be6218d5	Duration: 259.76 ms	Billed Duration: 260 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.587,"REPORT RequestId: 14478f98-a38c-485d-a531-15dc2b383ee5	Duration: 362.48 ms	Billed Duration: 363 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.585,"REPORT RequestId: ce0aaa93-5174-4cdd-bee1-278d7b7d1eaf	Duration: 312.55 ms	Billed Duration: 313 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.532,"REPORT RequestId: 76079323-9b89-4c19-9245-ae7a3499281e	Duration: 359.17 ms	Billed Duration: 360 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:08.531,"REPORT RequestId: 1f7792cf-f8e8-4445-bc7e-4df6c56a658b	Duration: 304.75 ms	Billed Duration: 305 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.457,"REPORT RequestId: 638df42d-b69e-4f44-8179-4e6a16c5a710	Duration: 284.88 ms	Billed Duration: 285 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.410,"REPORT RequestId: ff0fa711-2a34-4de3-9790-63f5790b8493	Duration: 283.31 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.392,"REPORT RequestId: cfcf6565-5163-4ffa-9b45-5f71200f602a	Duration: 436.59 ms	Billed Duration: 437 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.314,"REPORT RequestId: 9c32ea3d-092a-4ff4-aed1-9637584dec3e	Duration: 517.28 ms	Billed Duration: 518 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.262,"REPORT RequestId: 132c130d-f4df-44d1-898c-0af534d6a77d	Duration: 527.67 ms	Billed Duration: 528 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.206,"REPORT RequestId: 4d0fabbd-1219-4ff8-889d-3349b511c5e3	Duration: 431.06 ms	Billed Duration: 432 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.197,"REPORT RequestId: 4758a526-0fea-4fd4-856d-e972f2efb00a	Duration: 348.73 ms	Billed Duration: 349 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.157,"REPORT RequestId: 7241dddf-0d20-405b-a64b-bd21bc018820	Duration: 258.96 ms	Billed Duration: 259 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:08.107,"REPORT RequestId: e9b90b7b-4133-42bf-9d7a-3e2d1fe3ca12	Duration: 496.11 ms	Billed Duration: 497 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:08.066,"REPORT RequestId: 5cb8ae43-0ecf-4d4b-b662-6abf7c1c85e6	Duration: 396.16 ms	Billed Duration: 397 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.912,"REPORT RequestId: db8d79ce-5c66-4a9c-8285-7179a9f4fae3	Duration: 684.32 ms	Billed Duration: 685 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.788,"REPORT RequestId: 4d3c3862-a6e1-4e38-b43e-e58acbc3efb9	Duration: 223.87 ms	Billed Duration: 224 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.779,"REPORT RequestId: a24e603a-1380-442c-b940-07e70eb5823a	Duration: 552.47 ms	Billed Duration: 553 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.758,"REPORT RequestId: e8525fc7-db05-4238-a465-7e239e327ddf	Duration: 244.28 ms	Billed Duration: 245 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.718,"REPORT RequestId: f7f58f2f-2c8a-4a86-aa32-a26ec1e7a0c0	Duration: 254.23 ms	Billed Duration: 255 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.705,"REPORT RequestId: be115afa-28b5-4ec0-ab34-9fc1309ca9dd	Duration: 430.75 ms	Billed Duration: 431 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:07.501,"REPORT RequestId: ef32adbc-c379-4b5c-b037-a26202d10ef9	Duration: 309.29 ms	Billed Duration: 310 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.448,"REPORT RequestId: 1f873ed8-97c9-4ba8-998d-6fc964df837a	Duration: 571.84 ms	Billed Duration: 572 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.433,"REPORT RequestId: e15bfbf8-919e-418f-a8d2-f2686ad68561	Duration: 240.35 ms	Billed Duration: 241 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.432,"REPORT RequestId: 99059e62-9364-4440-8885-d3cedf210cfb	Duration: 298.22 ms	Billed Duration: 299 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.420,"REPORT RequestId: ca31f1a2-3217-4f64-af71-0cfd2de89382	Duration: 286.38 ms	Billed Duration: 287 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.392,"REPORT RequestId: fa3d5506-3ca0-4be9-a802-2da88832bebf	Duration: 486.49 ms	Billed Duration: 487 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.234,"REPORT RequestId: d96facb4-c7c1-48ac-9ee3-357db92a7c18	Duration: 423.13 ms	Billed Duration: 424 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:07.159,"REPORT RequestId: 180a2431-1922-4d7f-937b-4bd9dc4be909	Duration: 376.26 ms	Billed Duration: 377 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.077,"REPORT RequestId: 940d52b8-50af-4b24-b163-926c83298ee9	Duration: 506.23 ms	Billed Duration: 507 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.047,"REPORT RequestId: 6c6d1f02-fdbb-4e79-8c49-5416a811b270	Duration: 417.82 ms	Billed Duration: 418 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:07.008,"REPORT RequestId: ed2c09bc-b32a-4564-befb-f567fae51524	Duration: 283.97 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.921,"REPORT RequestId: e64bb679-953c-45a1-8a4a-7824ac9cf202	Duration: 687.61 ms	Billed Duration: 688 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.916,"REPORT RequestId: a760562a-e417-40f6-b721-276c1a55ad62	Duration: 227.91 ms	Billed Duration: 228 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.834,"REPORT RequestId: 819424a1-f807-4f81-8faf-89a75f02facc	Duration: 310.99 ms	Billed Duration: 311 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.793,"REPORT RequestId: 0a95e020-b0c2-40e1-898e-68b276a8e9c1	Duration: 664.81 ms	Billed Duration: 665 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:06.738,"REPORT RequestId: 28581b1a-e1f7-4485-9d27-c490ad98b47e	Duration: 438.55 ms	Billed Duration: 439 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.704,"REPORT RequestId: d95e7831-99a0-4452-b66f-f3fccb2bbae1	Duration: 241.38 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.588,"REPORT RequestId: f1833274-d37f-4bd8-9012-6a79b08a4100	Duration: 417.30 ms	Billed Duration: 418 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.588,"REPORT RequestId: e872be8c-b98e-458c-b42e-10799079c2fd	Duration: 414.19 ms	Billed Duration: 415 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.475,"REPORT RequestId: cba06c64-1a6c-440b-8b63-9318db1ac2ba	Duration: 404.42 ms	Billed Duration: 405 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.357,"REPORT RequestId: 78da48e8-9211-40cf-a5d7-bec3b3410319	Duration: 503.00 ms	Billed Duration: 504 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.324,"REPORT RequestId: 7d3b803d-5ac8-4a51-8d2d-bb0a0a501f2f	Duration: 211.66 ms	Billed Duration: 212 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.205,"REPORT RequestId: badd562b-466b-4e6b-8588-7a261e966573	Duration: 470.36 ms	Billed Duration: 471 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.051,"REPORT RequestId: 96c64d5f-60c5-4261-a036-534d40eaef27	Duration: 248.69 ms	Billed Duration: 249 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.047,"REPORT RequestId: 3827b8f2-ff3e-47c4-9c1f-0209250c6af0	Duration: 257.20 ms	Billed Duration: 258 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:06.038,"REPORT RequestId: 4413b223-64fd-4105-8c6c-c34d4ef746de	Duration: 413.08 ms	Billed Duration: 414 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:05.991,"REPORT RequestId: eeb7b4a5-f194-4cb0-ae0f-4d95e746ec00	Duration: 314.19 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.822,"REPORT RequestId: 9b744b20-355c-464d-9363-6a18667ea74a	Duration: 239.22 ms	Billed Duration: 240 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.804,"REPORT RequestId: 825e7052-3d2e-423c-8c92-bb55338d73ba	Duration: 270.91 ms	Billed Duration: 271 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.798,"REPORT RequestId: 46e24014-79b8-4ce5-b0b8-6f9a366d673c	Duration: 330.32 ms	Billed Duration: 331 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.536,"REPORT RequestId: f8db7ac9-790e-4311-99f3-20bb278efe71	Duration: 261.11 ms	Billed Duration: 262 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.488,"REPORT RequestId: 922872c5-9d44-4e0f-804d-5b580cf3fb63	Duration: 413.57 ms	Billed Duration: 414 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.469,"REPORT RequestId: 0ca5ae7a-7dc9-4fd7-972e-35d09f7d4593	Duration: 240.71 ms	Billed Duration: 241 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:05.427,"REPORT RequestId: 3445f9a4-f2fa-421d-8413-b790a1fa7f8a	Duration: 231.58 ms	Billed Duration: 232 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.405,"REPORT RequestId: 91d75774-3099-47b1-abc6-83f6999fae04	Duration: 633.00 ms	Billed Duration: 633 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.360,"REPORT RequestId: 2b65b10a-f43b-4f19-9f9a-eabf45a80acd	Duration: 241.34 ms	Billed Duration: 242 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.275,"REPORT RequestId: bef268f6-3fe0-49db-a325-2744faf48ffa	Duration: 314.38 ms	Billed Duration: 315 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.270,"REPORT RequestId: 23778f4e-7a4b-4a6d-bdbb-3f9408dd4719	Duration: 235.41 ms	Billed Duration: 236 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.136,"REPORT RequestId: 2385bcc0-b4d0-4ec4-b99e-eb61c1e4291f	Duration: 416.06 ms	Billed Duration: 417 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.030,"REPORT RequestId: 48dd23b0-292f-458e-b596-1df30aa71c43	Duration: 459.29 ms	Billed Duration: 460 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:05.008,"REPORT RequestId: 972529c7-ef0d-4b1d-b742-71af141866e9	Duration: 893.75 ms	Billed Duration: 894 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.951,"REPORT RequestId: 7c5ea89c-5979-4120-abca-2af67e839e28	Duration: 430.64 ms	Billed Duration: 431 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.950,"REPORT RequestId: 9c40750c-3cf6-44de-861b-7dab5c9090be	Duration: 304.90 ms	Billed Duration: 305 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.945,"REPORT RequestId: e14c44b7-67d4-4939-98e9-cf621d0e1451	Duration: 445.56 ms	Billed Duration: 446 ms	Memory Size: 512 MB	Max Memory Used: 153 MB	
+"
+2024-06-03 18:41:04.872,"REPORT RequestId: 96205501-6e93-44bd-a05e-86be7a908e01	Duration: 204.41 ms	Billed Duration: 205 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.730,"REPORT RequestId: 2fd0a096-c413-47b8-9af3-bf43d2336f40	Duration: 555.48 ms	Billed Duration: 556 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.711,"REPORT RequestId: b6c00688-d115-41da-8be2-3c30b5e75224	Duration: 484.65 ms	Billed Duration: 485 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.492,"REPORT RequestId: 45c86741-fc95-4440-b2e0-315f227ed0ca	Duration: 529.85 ms	Billed Duration: 530 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:04.469,"REPORT RequestId: 4cb82c8f-43df-4b45-8ef7-e5c440425299	Duration: 451.99 ms	Billed Duration: 452 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.318,"REPORT RequestId: d93e5670-0d86-4323-b57e-f8ea3084cf72	Duration: 253.56 ms	Billed Duration: 254 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.218,"REPORT RequestId: eebb99c9-e1b0-42d5-9a33-18c666b4524c	Duration: 441.58 ms	Billed Duration: 442 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.174,"REPORT RequestId: 8265646d-523c-48a5-a72f-a29795c9a070	Duration: 560.33 ms	Billed Duration: 561 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.099,"REPORT RequestId: 87bbd714-fdb9-49bc-990c-23c9379bedb6	Duration: 430.15 ms	Billed Duration: 431 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.004,"REPORT RequestId: f84eb8df-da2e-469b-bf06-56eca62f07ef	Duration: 279.57 ms	Billed Duration: 280 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:04.003,"REPORT RequestId: ae902b12-3ad3-498b-b8c1-2c86d4bf7755	Duration: 488.50 ms	Billed Duration: 489 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.851,"REPORT RequestId: d2c5ac4a-dc72-4fb6-893f-07dd284232a9	Duration: 682.35 ms	Billed Duration: 683 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:41:03.849,"REPORT RequestId: 9b435d64-87cc-46d4-b83b-71d124392935	Duration: 283.06 ms	Billed Duration: 284 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.726,"REPORT RequestId: c4fe67ff-c7a5-42e2-a8a5-690adb99bced	Duration: 256.56 ms	Billed Duration: 257 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.678,"REPORT RequestId: 5b97dce7-000b-411c-93bc-09d9d9ffd31d	Duration: 558.05 ms	Billed Duration: 559 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.592,"REPORT RequestId: 8e9e604f-e830-4469-85a2-b4d1dafeb77c	Duration: 511.29 ms	Billed Duration: 512 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.518,"REPORT RequestId: ac8f9240-ccb8-4550-a5c9-33c372c307b2	Duration: 499.89 ms	Billed Duration: 500 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.412,"REPORT RequestId: 6defed16-1100-4672-a1be-6113b65be5e5	Duration: 731.44 ms	Billed Duration: 732 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.308,"REPORT RequestId: d52750cc-488d-4447-b29a-91d964a9904a	Duration: 678.88 ms	Billed Duration: 679 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.299,"REPORT RequestId: d159cdce-1034-4afb-afb3-da3aaaf81ce7	Duration: 323.53 ms	Billed Duration: 324 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:03.232,"REPORT RequestId: 6876a499-30cd-41bc-a5b8-370da8839794	Duration: 494.65 ms	Billed Duration: 495 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.219,"REPORT RequestId: 0e790957-067a-473c-ab69-5f84fc1ee110	Duration: 414.53 ms	Billed Duration: 415 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:03.041,"REPORT RequestId: 41083a81-406d-4dc8-8430-b16247b5ae9e	Duration: 463.90 ms	Billed Duration: 464 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:02.850,"REPORT RequestId: 8f05f532-6c48-43d4-a0e2-47de097efbac	Duration: 316.75 ms	Billed Duration: 317 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.778,"REPORT RequestId: 1b9ecc53-199f-4ec6-a712-5115d7ca1b8f	Duration: 292.77 ms	Billed Duration: 293 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:02.556,"REPORT RequestId: 3fd4a7b4-8a8b-4f92-b356-8d2adfaff762	Duration: 426.68 ms	Billed Duration: 427 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.519,"REPORT RequestId: 024efb50-8562-4f6f-8876-9e3c57cbe191	Duration: 416.65 ms	Billed Duration: 417 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.384,"REPORT RequestId: f0cb0e0c-4a3c-4a15-ae3a-1b4cc4be7a51	Duration: 331.01 ms	Billed Duration: 332 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:02.356,"REPORT RequestId: 286de82f-3a10-4ef2-af31-57eead97d29a	Duration: 382.87 ms	Billed Duration: 383 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:02.307,"REPORT RequestId: b749fa88-07c2-4eb3-9044-7e130c7ac576	Duration: 533.06 ms	Billed Duration: 534 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.076,"REPORT RequestId: 1ad71f11-c220-4a69-9156-7883daf1c64d	Duration: 428.73 ms	Billed Duration: 429 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.068,"REPORT RequestId: 2392de54-fdc0-4d13-bb8e-61b1e0576fbd	Duration: 329.12 ms	Billed Duration: 330 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:02.008,"REPORT RequestId: 77bb6c0c-4487-4f19-899f-d56d4460d780	Duration: 432.06 ms	Billed Duration: 433 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.914,"REPORT RequestId: 156f6cf3-13a6-4e22-b124-30283beafbed	Duration: 216.85 ms	Billed Duration: 217 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.836,"REPORT RequestId: 296542d6-e0c2-4261-83f2-32b83a849928	Duration: 304.08 ms	Billed Duration: 305 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:01.801,"REPORT RequestId: 9d4566d2-0e42-4d94-99e1-aabd2c08483f	Duration: 327.30 ms	Billed Duration: 328 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.506,"REPORT RequestId: 1ddb8888-1561-4dcd-bc07-4a4518398e8c	Duration: 531.42 ms	Billed Duration: 532 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:01.298,"REPORT RequestId: 5efbedcc-9a6a-4a2b-9087-eb137add11a2	Duration: 224.48 ms	Billed Duration: 225 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.289,"REPORT RequestId: d245c326-65f3-4d87-8d65-328b9c30ff2a	Duration: 274.33 ms	Billed Duration: 275 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.222,"REPORT RequestId: 5b0513ed-af3e-4614-92e8-ba84a6acfbcb	Duration: 447.91 ms	Billed Duration: 448 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:01.197,"REPORT RequestId: 3ee8be65-fc21-4a76-ac02-716baf8ac79b	Duration: 507.49 ms	Billed Duration: 508 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:01.060,"REPORT RequestId: 09f0778a-4b9d-4211-b100-d0076d831c6b	Duration: 318.27 ms	Billed Duration: 319 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:00.969,"REPORT RequestId: 685e68ad-d30a-4ae3-9303-a0092330f5fc	Duration: 345.47 ms	Billed Duration: 346 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.942,"REPORT RequestId: 8fda9f84-1231-48cf-8b44-bb3349a96c48	Duration: 429.25 ms	Billed Duration: 430 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:00.905,"REPORT RequestId: bd077139-1a2e-4021-95f2-d11813bca6c2	Duration: 419.03 ms	Billed Duration: 420 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.894,"REPORT RequestId: 9a8a71bb-1886-4341-b6a0-3b863b3273e6	Duration: 329.55 ms	Billed Duration: 330 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.734,"REPORT RequestId: 98cfb47c-de98-4963-ace1-b1e21cdc2eaf	Duration: 766.79 ms	Billed Duration: 767 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:41:00.497,"REPORT RequestId: 93c6607f-167f-4649-b44e-ce990bb503ba	Duration: 477.39 ms	Billed Duration: 478 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.328,"REPORT RequestId: e75554fe-f21f-46ff-a7b2-0ddd5a32b58c	Duration: 245.47 ms	Billed Duration: 246 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.284,"REPORT RequestId: 0ce0bd20-a869-49c8-a987-88defc5a956e	Duration: 455.05 ms	Billed Duration: 456 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.101,"REPORT RequestId: b82ccd7b-e65e-4bbe-b5b1-8b5899efcd76	Duration: 442.50 ms	Billed Duration: 443 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:41:00.012,"REPORT RequestId: 2a01e9eb-51a6-4774-b131-ce9f34fa4a91	Duration: 489.32 ms	Billed Duration: 490 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:59.959,"REPORT RequestId: a28cf040-8737-4ea7-9be5-9b88a0486d07	Duration: 245.70 ms	Billed Duration: 246 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:59.871,"REPORT RequestId: cdd7d855-0eb9-415a-a801-8a727a8a0f2b	Duration: 311.20 ms	Billed Duration: 312 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:59.855,"REPORT RequestId: 982b50ac-23ca-4d69-9cf2-1f3d1c2ce839	Duration: 246.10 ms	Billed Duration: 247 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:59.721,"REPORT RequestId: ff3dbf50-2228-4e2a-8ef8-2e211cc752e4	Duration: 231.21 ms	Billed Duration: 232 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:59.674,"REPORT RequestId: 1a326004-bac0-4ae4-a1ff-1298259dda60	Duration: 592.16 ms	Billed Duration: 593 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:59.651,"REPORT RequestId: 1cf68767-96e1-44e8-9615-c22ca5a6cca3	Duration: 670.17 ms	Billed Duration: 671 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:59.469,"REPORT RequestId: 9f7755b3-2189-4408-abcd-26585f51f51e	Duration: 453.23 ms	Billed Duration: 454 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:59.193,"REPORT RequestId: b134d5b0-9415-48d1-94f2-c7fd958d9ee0	Duration: 568.22 ms	Billed Duration: 569 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:59.042,"REPORT RequestId: 8c2fd2aa-784d-400b-b4d6-ea572dfc9f81	Duration: 456.19 ms	Billed Duration: 457 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.995,"REPORT RequestId: 497d07c4-132c-48a3-a0ce-f9b9b91210ec	Duration: 232.60 ms	Billed Duration: 233 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:58.994,"REPORT RequestId: 75562979-25e6-48b4-8352-a8d260789cf2	Duration: 331.78 ms	Billed Duration: 332 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.968,"REPORT RequestId: 91e60555-5e88-497c-8e38-05d743bf6d00	Duration: 244.53 ms	Billed Duration: 245 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.939,"REPORT RequestId: fca2c309-6e7a-463c-9b20-ec43f3215d01	Duration: 420.45 ms	Billed Duration: 421 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:58.839,"REPORT RequestId: 874d162c-6712-4993-9f20-c6f12c116236	Duration: 376.20 ms	Billed Duration: 377 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.384,"REPORT RequestId: 02b4844e-cc63-4936-a223-0e55942f9df0	Duration: 666.40 ms	Billed Duration: 667 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.384,"REPORT RequestId: f739c760-750d-442f-807e-86a24efc203a	Duration: 412.04 ms	Billed Duration: 413 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:58.369,"REPORT RequestId: 44ad64d8-8c50-4ad7-9a90-2a38066686a3	Duration: 306.95 ms	Billed Duration: 307 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.275,"REPORT RequestId: 83ade6bb-6564-4bec-86af-0cbf23bd43cb	Duration: 244.14 ms	Billed Duration: 245 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:58.114,"REPORT RequestId: 578db287-2aef-414b-aa1f-17750ac193df	Duration: 539.82 ms	Billed Duration: 540 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.068,"REPORT RequestId: d89362cb-a45c-4472-b6f6-265cf578b5a6	Duration: 442.17 ms	Billed Duration: 443 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:58.030,"REPORT RequestId: a573e224-4b1f-48f3-b54f-ce7787b43b41	Duration: 265.65 ms	Billed Duration: 266 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.952,"REPORT RequestId: 8b84485c-739c-4797-9b19-d97ecfe02a56	Duration: 284.45 ms	Billed Duration: 285 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:57.837,"REPORT RequestId: bfbb0bad-736f-48f3-9ae2-fd17ed57f773	Duration: 311.17 ms	Billed Duration: 312 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:57.772,"REPORT RequestId: 6d1eac0e-23c5-4491-b13c-13db6bdf88e5	Duration: 302.86 ms	Billed Duration: 303 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:57.538,"REPORT RequestId: a8b33b78-187c-40ec-ad78-d23d2bdd1897	Duration: 503.29 ms	Billed Duration: 504 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.363,"REPORT RequestId: 54bb23a3-8710-44d9-9a3a-c2c271b08a33	Duration: 291.54 ms	Billed Duration: 292 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:57.270,"REPORT RequestId: 1045306f-898a-4cd3-8c2d-d6c292d3a1ce	Duration: 289.43 ms	Billed Duration: 290 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:57.187,"REPORT RequestId: 305c924e-3c58-4c9f-a87f-153f6a6fc325	Duration: 467.88 ms	Billed Duration: 468 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.168,"REPORT RequestId: 9ec8bb1e-6b19-4dea-a781-ee4d3407b51a	Duration: 498.87 ms	Billed Duration: 499 ms	Memory Size: 512 MB	Max Memory Used: 151 MB	
+"
+2024-06-03 18:40:57.107,"REPORT RequestId: 9ebac73c-0f2e-4ebc-af7d-a6013aa8ae13	Duration: 580.35 ms	Billed Duration: 581 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.077,"REPORT RequestId: def788d6-6537-4d1a-8f93-06084991bf7e	Duration: 445.37 ms	Billed Duration: 446 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.014,"REPORT RequestId: eaf2172e-b794-4daf-9ea8-d4c5033774a5	Duration: 540.55 ms	Billed Duration: 541 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:57.001,"REPORT RequestId: c3879a42-0152-48bc-bd8a-17e5476d1c17	Duration: 233.17 ms	Billed Duration: 234 ms	Memory Size: 512 MB	Max Memory Used: 130 MB	
+"
+2024-06-03 18:40:56.918,"REPORT RequestId: d6da3bc0-b5ae-4229-ac27-311057f49616	Duration: 349.90 ms	Billed Duration: 350 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:56.609,"REPORT RequestId: f9ea1cb2-2cbb-4495-8eee-bda6cd7069c4	Duration: 585.55 ms	Billed Duration: 586 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:40:56.599,"REPORT RequestId: 8a8cbc65-9eb1-4e4e-b2fb-befbb61dca1f	Duration: 1143.28 ms	Billed Duration: 1144 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1650.69 ms	
+"
+2024-06-03 18:40:56.569,"REPORT RequestId: 02bb4066-d287-40ae-b8df-7d3e535a0da7	Duration: 1072.67 ms	Billed Duration: 1073 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1688.71 ms	
+"
+2024-06-03 18:40:56.491,"REPORT RequestId: f1e6b05c-f43c-432f-8e8d-75c2c683b1b6	Duration: 697.55 ms	Billed Duration: 698 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1783.54 ms	
+"
+2024-06-03 18:40:56.439,"REPORT RequestId: 21cc8efb-3c46-4808-8b45-53ea49bf801b	Duration: 374.44 ms	Billed Duration: 375 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:56.412,"REPORT RequestId: d25f66d3-4518-4721-ab28-adee2b63bf91	Duration: 1022.36 ms	Billed Duration: 1023 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1676.54 ms	
+"
+2024-06-03 18:40:56.292,"REPORT RequestId: 31c695c4-804b-4b17-9159-5e70759bd658	Duration: 316.26 ms	Billed Duration: 317 ms	Memory Size: 512 MB	Max Memory Used: 130 MB	
+"
+2024-06-03 18:40:56.265,"REPORT RequestId: d8b9cce6-7a4b-447f-a3e6-65c128906d24	Duration: 754.72 ms	Billed Duration: 755 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1685.47 ms	
+"
+2024-06-03 18:40:56.249,"REPORT RequestId: bb6d02a4-63e9-493a-8f8a-26d0ffff60f6	Duration: 710.28 ms	Billed Duration: 711 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1671.93 ms	
+"
+2024-06-03 18:40:56.192,"REPORT RequestId: d76258c4-9cbc-4a04-9f78-b294908bad2b	Duration: 472.94 ms	Billed Duration: 473 ms	Memory Size: 512 MB	Max Memory Used: 150 MB	
+"
+2024-06-03 18:40:56.168,"REPORT RequestId: f6f4b325-1fe3-47a2-b917-c7d0b45c3dfe	Duration: 727.63 ms	Billed Duration: 728 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1717.93 ms	
+"
+2024-06-03 18:40:56.134,"REPORT RequestId: 1349f698-4850-4aad-b87b-fdcda6a0c329	Duration: 363.84 ms	Billed Duration: 364 ms	Memory Size: 512 MB	Max Memory Used: 130 MB	
+"
+2024-06-03 18:40:56.092,"REPORT RequestId: 07ccc25f-1c38-48e1-91b2-10d5a364dff6	Duration: 976.32 ms	Billed Duration: 977 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1743.04 ms	
+"
+2024-06-03 18:40:55.971,"REPORT RequestId: 54dde38d-3b13-4abf-897b-9e1f048f8b4c	Duration: 298.79 ms	Billed Duration: 299 ms	Memory Size: 512 MB	Max Memory Used: 130 MB	
+"
+2024-06-03 18:40:55.938,"REPORT RequestId: 0253d62a-2a76-45bc-82fa-97ba592a8484	Duration: 475.30 ms	Billed Duration: 476 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:40:55.883,"REPORT RequestId: fee16fa8-4d16-4eca-9ac2-9a8e44e1f5cf	Duration: 260.64 ms	Billed Duration: 261 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:55.845,"REPORT RequestId: 92d81fb8-e1ae-4342-a828-700271270f7b	Duration: 282.59 ms	Billed Duration: 283 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:40:55.793,"REPORT RequestId: 3fce43ac-0fd1-4edb-969a-4a12ebd9a3ff	Duration: 273.45 ms	Billed Duration: 274 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:55.659,"REPORT RequestId: 163c8dbc-4779-4c96-9fe5-34164ecd144f	Duration: 730.09 ms	Billed Duration: 731 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1695.51 ms	
+"
+2024-06-03 18:40:55.643,"REPORT RequestId: c2460348-02eb-4e89-b368-d799c972608c	Duration: 1098.38 ms	Billed Duration: 1099 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1657.18 ms	
+"
+2024-06-03 18:40:55.561,"REPORT RequestId: 3174ebec-9df5-4505-a320-7d663579f0dd	Duration: 862.54 ms	Billed Duration: 863 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1716.11 ms	
+"
+2024-06-03 18:40:55.558,"REPORT RequestId: 6b359486-e811-4d95-8565-995d6648d2cd	Duration: 659.41 ms	Billed Duration: 660 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1755.46 ms	
+"
+2024-06-03 18:40:55.542,"REPORT RequestId: e147f436-a1cc-4ab5-a800-e2cdc2a476d5	Duration: 573.49 ms	Billed Duration: 574 ms	Memory Size: 512 MB	Max Memory Used: 152 MB	
+"
+2024-06-03 18:40:55.510,"REPORT RequestId: 171a8989-950f-4257-bd80-e334b57a037c	Duration: 1022.30 ms	Billed Duration: 1023 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	Init Duration: 1676.40 ms	
+"
+2024-06-03 18:40:55.476,"REPORT RequestId: 68563352-d585-4137-ad6a-f861289e21c2	Duration: 952.12 ms	Billed Duration: 953 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1654.26 ms	
+"
+2024-06-03 18:40:55.449,"REPORT RequestId: f511f423-092d-4f93-8e3a-9686935cc55f	Duration: 781.92 ms	Billed Duration: 782 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:40:55.414,"REPORT RequestId: 0e79f58e-a56c-46e0-9497-fc3f1fa454e1	Duration: 397.49 ms	Billed Duration: 398 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:40:55.412,"REPORT RequestId: 7e791cee-1fd5-482a-a64f-191daa2e69d0	Duration: 712.80 ms	Billed Duration: 713 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1712.07 ms	
+"
+2024-06-03 18:40:55.278,"REPORT RequestId: 71681f30-37ef-4d63-a0e3-d64e3fbe8cf7	Duration: 214.18 ms	Billed Duration: 215 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:55.155,"REPORT RequestId: b644d482-1141-439b-a5ba-c7ff81d5056d	Duration: 722.59 ms	Billed Duration: 723 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1670.39 ms	
+"
+2024-06-03 18:40:55.144,"REPORT RequestId: 4cdf2c21-708d-443b-8ac3-4142c0ef2bac	Duration: 719.18 ms	Billed Duration: 720 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1688.29 ms	
+"
+2024-06-03 18:40:55.130,"REPORT RequestId: fd587413-fb53-46be-b061-b76fb6d3bb81	Duration: 407.81 ms	Billed Duration: 408 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:55.096,"REPORT RequestId: f2d8a804-bb2d-4c4c-bccb-1a1706499e2a	Duration: 321.10 ms	Billed Duration: 322 ms	Memory Size: 512 MB	Max Memory Used: 134 MB	
+"
+2024-06-03 18:40:55.038,"REPORT RequestId: 91236920-c081-4b78-86d2-18ce81e3d3da	Duration: 464.39 ms	Billed Duration: 465 ms	Memory Size: 512 MB	Max Memory Used: 147 MB	
+"
+2024-06-03 18:40:54.993,"REPORT RequestId: d3612ca3-7616-441c-b851-3f8bbd0a0a2a	Duration: 377.39 ms	Billed Duration: 378 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	
+"
+2024-06-03 18:40:54.870,"REPORT RequestId: ee3850ee-c54a-4f30-b3ba-76c2d4e576b1	Duration: 753.30 ms	Billed Duration: 754 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	Init Duration: 1687.22 ms	
+"
+2024-06-03 18:40:54.866,"REPORT RequestId: 35b5dc33-a0b4-49bb-abb3-03e6de387ed2	Duration: 790.04 ms	Billed Duration: 791 ms	Memory Size: 512 MB	Max Memory Used: 148 MB	
+"
+2024-06-03 18:40:54.832,"REPORT RequestId: c0c9a9fe-7604-4073-8a7f-deacee5bd8d1	Duration: 696.90 ms	Billed Duration: 697 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1752.77 ms	
+"
+2024-06-03 18:40:54.825,"REPORT RequestId: 34d93ce8-ce4b-4370-bde6-d9bea337dd59	Duration: 232.95 ms	Billed Duration: 233 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	
+"
+2024-06-03 18:40:54.795,"REPORT RequestId: 88c90217-ff0b-495d-a49e-18c23061e390	Duration: 326.65 ms	Billed Duration: 327 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:54.710,"REPORT RequestId: 0a2f4310-872d-46ef-b23a-5c10dc31639e	Duration: 855.83 ms	Billed Duration: 856 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1635.06 ms	
+"
+2024-06-03 18:40:54.656,"REPORT RequestId: 99fe55a8-fb72-4b4c-8d28-74d304794ca3	Duration: 884.93 ms	Billed Duration: 885 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1689.91 ms	
+"
+2024-06-03 18:40:54.468,"REPORT RequestId: 0796c237-f6cd-47d1-9a17-e3e41c811c92	Duration: 781.16 ms	Billed Duration: 782 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1721.58 ms	
+"
+2024-06-03 18:40:54.285,"REPORT RequestId: a81a4a00-b966-458c-a99a-d2aa842a20d8	Duration: 830.43 ms	Billed Duration: 831 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1677.99 ms	
+"
+2024-06-03 18:40:54.281,"REPORT RequestId: 7bec8ddd-530a-493a-afae-929ff58f56b5	Duration: 760.51 ms	Billed Duration: 761 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1742.29 ms	
+"
+2024-06-03 18:40:54.264,"REPORT RequestId: db0f4965-5fbb-49c0-b250-591bd7c5ebf3	Duration: 1153.90 ms	Billed Duration: 1154 ms	Memory Size: 512 MB	Max Memory Used: 149 MB	Init Duration: 1665.90 ms	
+"
+2024-06-03 18:40:54.240,"REPORT RequestId: e01025f7-698c-4ec3-bb18-e91a20605bcc	Duration: 717.26 ms	Billed Duration: 718 ms	Memory Size: 512 MB	Max Memory Used: 133 MB	Init Duration: 1632.27 ms	
+"
+2024-06-03 18:40:54.218,"REPORT RequestId: a180d891-af7a-4b6f-abd3-42954f9064a1	Duration: 249.98 ms	Billed Duration: 250 ms	Memory Size: 512 MB	Max Memory Used: 132 MB	
+"
+2024-06-03 18:40:54.185,"REPORT RequestId: cde9bc0b-ede8-40dd-a19b-40354f77c1c5	Duration: 676.24 ms	Billed Duration: 677 ms	Memory Size: 512 MB	Max Memory Used: 131 MB	Init Duration: 1590.50 ms	
+"
+2024-06-03 18:40:54.095,"REPORT RequestId: 965c7b70-35b6-45d6-a6e0-30a2d524cba6	Duration: 730.32 ms	Billed Duration: 731 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1655.03 ms	
+"
+2024-06-03 18:40:54.071,"REPORT RequestId: 575a5124-650e-44c6-b39d-973fc7e173be	Duration: 246.00 ms	Billed Duration: 246 ms	Memory Size: 512 MB	Max Memory Used: 130 MB	
+"
+2024-06-03 18:40:53.865,"REPORT RequestId: 5a4c3658-889d-466e-ac56-bb965fdb9c99	Duration: 776.36 ms	Billed Duration: 777 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1649.74 ms	
+"
+2024-06-03 18:40:53.820,"REPORT RequestId: 1dd1a4c7-16f0-44fd-a87c-0280ea8b0e43	Duration: 699.46 ms	Billed Duration: 700 ms	Memory Size: 512 MB	Max Memory Used: 129 MB	Init Duration: 1678.10 ms	
+"

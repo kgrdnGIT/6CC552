@@ -1,0 +1,73 @@
+# artillery run --environment dev script.yaml
+config:
+  target: https://23pqj6a60j.execute-api.eu-west-1.amazonaws.com/dev
+  phases:
+    - duration: 10
+      arrivalRate: 5
+      name: Warm up phase
+    - duration: 10
+      arrivalRate: 5
+      rampTo: 10
+      name: Ramp up phase
+    - duration: 10
+      arrivalRate: 10
+      name: Steady state phase
+    - duration: 10
+      arrivalRate: 10
+      rampTo: 20
+      name: Spike phase
+  environments:
+    r1:
+      target: https://rig09sxrok.execute-api.eu-west-1.amazonaws.com/r1
+      phases:
+        - duration: 10
+          arrivalRate: 10
+          name: Warm up phase
+    r2:
+      target: https://bkno9hi31g.execute-api.eu-west-1.amazonaws.com/r2
+      phases:
+        - duration: 10
+          arrivalRate: 10
+    r3:
+      target: https://5vp2bmhwml.execute-api.eu-west-1.amazonaws.com/r3
+      phases:
+        - duration: 10
+          arrivalRate: 10
+    r4:
+      target: https://izgu2nk5k6.execute-api.eu-west-1.amazonaws.com/r4
+      phases:
+        - duration: 10
+          arrivalRate: 10
+
+scenarios:
+  - name: 'object001'
+    weight: 4
+    flow:
+      - post:
+          url: '/process-image'
+          json:
+            image_key: 'object0001.jpg'
+          expect:
+            statusCode: 200
+  - name: 'object002'
+    weight: 3
+    flow:
+      - post:
+          url: '/process-image'
+          json:
+            image_key: 'object002.jpeg'
+          expect:
+            statusCode: 200
+  - name: 'object003'
+    weight: 3
+    flow:
+      - post:
+          url: '/process-image'
+          json:
+            image_key: 'object003.jpeg'
+          expect:
+            statusCode: 200
+
+output:
+  includeOnly:
+    - http

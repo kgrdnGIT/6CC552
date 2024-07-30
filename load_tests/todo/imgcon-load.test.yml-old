@@ -1,0 +1,56 @@
+config:
+  target: https://jwezzmu5gd.execute-api.eu-west-1.amazonaws.com
+  phases:
+    - duration: 10
+      arrivalRate: 10
+      name: Warm up phase
+    - duration: 10
+      arrivalRate: 10
+      rampTo: 40
+      name: Ramp up phase
+    - duration: 10
+      arrivalRate: 40
+      name: Steady state phase
+    - duration: 10
+      arrivalRate: 40
+      rampTo: 60
+      name: Spike phase
+  environments:
+    r1:
+      target: https://a10dovo5ld.execute-api.eu-west-1.amazonaws.com/todos
+      phases:
+        - duration: 10
+          arrivalRate: 10
+          name: Warm up phase
+
+#  plugins:
+#    publish-metrics:
+#      - type: cloudwatch
+#        region: eu-west-1
+#        namespace: continous-testing
+#        dimensions:
+#          - name: TeamGordon
+#            value: SQA
+#          - name: polynomial-regression 
+#            value: checkout-svc
+#    ensure: {}
+#    apdex: {}
+#    metrics-by-endpoint: {}
+#  apdex:
+#    threshold: 100
+#  ensure:
+#      thresholds:
+#        - http.response_time.p99: 100
+#        - http.response_time.p95: 75
+scenarios:
+  - flow:
+    - loop:
+      - get:
+          url: "/dev/150x150/google-skateboard.jpg"
+      count: 50
+      expect:
+        statusCode: 200
+output:
+  includeOnly:
+    - http
+

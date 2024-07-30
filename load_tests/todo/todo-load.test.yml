@@ -1,0 +1,59 @@
+config:
+  target: https://ozxpq4vvj7.execute-api.eu-west-1.amazonaws.com
+  phases:
+    - duration: 10
+      arrivalRate: 10
+      name: Warm up phase
+    - duration: 10
+      arrivalRate: 10
+      rampTo: 20
+      name: Ramp up phase
+    - duration: 10
+      arrivalRate: 20
+      name: Steady state phase
+    - duration: 10
+      arrivalRate: 20
+      rampTo: 40
+      name: Spike phase
+  environments:
+    r1: 
+      target: https://a10dovo5ld.execute-api.eu-west-1.amazonaws.com
+      phases:
+        - duration: 10
+          arrivalRate: 10
+          name: Warm up phase
+    r2: 
+      target: https://li8zgyxq3m.execute-api.eu-west-1.amazonaws.com
+      phases:
+        - duration: 10
+          arrivalRate: 10
+          name: Warm up phase
+    r4: 
+      target: https://xxqabj3yd1.execute-api.eu-west-1.amazonaws.com
+      phases:
+        - duration: 10
+          arrivalRate: 10
+
+scenarios:
+  - flow:
+      - post:
+          url: "/todos"
+          json:
+            text: "Wash the Car"
+            checked: "False"
+          capture:
+            - json: "$.id"
+              as: "todoId"
+      - get:
+          url: "/todos/{{ todoId }}"
+      - put:
+          url: "/todos/{{ todoId }}"
+          json:
+            text: "Updated Wash the Car Todo"
+            checked: "True"
+      - delete:
+          url: "/todos/{{ todoId }}"
+
+output:
+  includeOnly:
+    - http

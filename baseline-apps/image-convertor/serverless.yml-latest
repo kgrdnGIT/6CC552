@@ -1,0 +1,42 @@
+service: image-resizing-python
+
+provider:
+  name: aws
+  runtime: python3.10
+  region: eu-west-1
+  #tracing: 
+  #  apiGateway: true
+  #  lambda: true 
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - "xray:PutTraceSegments"
+        - "xray:PutTelemetryRecords"
+        - s3:*
+      Resource: '*'
+package:
+  exclude:
+    - '.venv/**'
+
+functions:
+  resize:
+    handler: handler.call
+    tracing: Active
+    environment:
+      BUCKET: resized-images-python-kg001
+      REGION: eu-west-1
+    events:
+      - http:
+          path: /{size}/{image}
+          method: get
+
+plugins:
+  - serverless-s3-local
+  - serverless-offline
+  - serverless-python-requirements
+  - serverless-plugin-tracing
+  - serverless-deployment-bucket
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-linux"

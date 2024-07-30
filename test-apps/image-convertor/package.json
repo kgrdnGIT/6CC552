@@ -1,0 +1,12 @@
+{
+  "name": "image-resizing-python",
+  "description": "",
+  "version": "0.2.0",
+  "devDependencies": {
+    "serverless-deployment-bucket": "^1.6.0",
+    "serverless-offline": "^4.9.1",
+    "serverless-plugin-tracing": "^2.0.0",
+    "serverless-python-requirements": "^6.0.1",
+    "serverless-s3-local": "^0.8.1"
+  }
+}

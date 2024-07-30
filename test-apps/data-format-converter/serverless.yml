@@ -1,0 +1,71 @@
+# Welcome to Serverless!
+# Happy Coding!
+
+service: data-format-converter
+# app and org for use with dashboard.serverless.com
+#app: your-app-name
+#org: your-org-name
+
+# You can pin your service to only deploy with a specific Serverless version
+# Check out our docs for more details
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  stage: dev
+  region: eu-west-1
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - s3:GetObject
+            - s3:PutObject
+          Resource: 
+            - Fn::If:
+                - BucketDoesNotExist
+                - !Sub "arn:aws:s3:::${self:custom.bucketName}/*"
+                - !Ref AWS::NoValue
+
+package:
+  exclude:
+    - '.venv/**'
+
+functions:
+  data-format-converter:
+    handler: handler.lambda_handler
+    events:
+      - http:
+          path: /{convert}
+          method: post
+
+resources:
+  Resources:
+    MyBucket:
+      Type: AWS::S3::Bucket
+      Condition: BucketDoesNotExist
+      Properties:
+        BucketName: ${self:custom.bucketName}
+
+  Conditions:
+    BucketDoesNotExist:
+      Fn::Not:
+        - Condition: BucketExists
+
+    BucketExists:
+      Fn::Equals:
+        - "true"
+        - "false"
+
+plugins:
+  - serverless-offline
+  - serverless-deployment-bucket
+  - serverless-python-requirements
+
+custom:
+  bucketName: format-convertor-dev-buck
+  pythonRequirements:
+    dockerizePip: "non-linux"

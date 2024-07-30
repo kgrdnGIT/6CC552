@@ -1,0 +1,84 @@
+service: todo
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  #stage: dev
+  region: eu-west-1
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+  environment:
+    DYNAMODB_TABLE: ${self:service}-${opt:stage}
+  tracing: 
+    apiGateway: true
+    lambda: true
+  httpApi:
+    cors: true
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - dynamodb:Query
+            - dynamodb:Scan
+            - dynamodb:GetItem
+            - dynamodb:PutItem
+            - dynamodb:UpdateItem
+            - dynamodb:DeleteItem
+          Resource: "arn:aws:dynamodb:${self:provider.region}:*:table/${self:provider.environment.DYNAMODB_TABLE}"
+        - Effect: Allow
+          Action:
+            - "xray:PutTraceSegments"
+            - "xray:PutTelemetryRecords"
+            - s3:*
+          Resource: '*'
+
+package:
+  patterns:
+    - '!node_modules/**'
+    - '!layers/**'
+    - '!.venv/**'
+    - '!__pycache__/**'
+    - '!.ipynb_checkpoints/**'
+    - '!(*).ipynb'
+    - '${opt:stage}/**'  # Include stage-specific code
+
+functions:
+  api:
+    handler: ${opt:stage}/handler.api
+    memorySize: 512
+    timeout: 10
+    events:
+      - httpApi:
+          path: /todos
+          method: any
+      - httpApi:
+          path: /todos/{id}
+          method: any
+
+resources:
+  Resources:
+    TodosDynamoDbTable:
+      Type: 'AWS::DynamoDB::Table'
+      DeletionPolicy: Retain
+      Properties:
+        AttributeDefinitions:
+          -
+            AttributeName: id
+            AttributeType: S
+        KeySchema:
+          -
+            AttributeName: id
+            KeyType: HASH
+        BillingMode: PAY_PER_REQUEST
+        TableName: ${self:provider.environment.DYNAMODB_TABLE}
+
+plugins:
+  - serverless-offline
+  - serverless-deployment-bucket
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-linux"

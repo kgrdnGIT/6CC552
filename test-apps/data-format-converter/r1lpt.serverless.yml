@@ -1,0 +1,81 @@
+service: data-format-converter
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  #stage: dev
+  tracing: 
+    apiGateway: true
+    lambda: true 
+  region: eu-west-1
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - s3:GetObject
+            - s3:PutObject
+          Resource: 
+            - Fn::If:
+                - BucketDoesNotExist
+                #- !Sub "arn:aws:s3:::${self:custom.bucketName}/*"
+                - !Sub "arn:aws:s3:::${self:service}-${opt:stage}-bucket/*"
+                - !Ref AWS::NoValue
+        - Effect: Allow
+          Action:
+            - "xray:PutTraceSegments"
+            - "xray:PutTelemetryRecords"
+            - s3:*
+          Resource: '*'
+
+package:
+  patterns:
+    - '!node_modules/**'
+    - '!layers/**'
+    - '!.venv/**'
+    - '!__pycache__/**'
+    - '!.ipynb_checkpoints/**'
+    - '!(*).ipynb'
+    - '${opt:stage}/**'  # Include stage-specific code
+
+functions:
+  data-format-converter:
+    handler: ${opt:stage}/handler.lambda_handler
+    memorySize: 512
+    timeout: 10
+    events:
+      - http:
+          path: /{convert}
+          method: post
+
+resources:
+  Resources:
+    MyBucket:
+      Type: AWS::S3::Bucket
+      Condition: BucketDoesNotExist
+      Properties:
+        #BucketName: ${self:custom.bucketName}
+        BucketName: "${self:service}-${opt:stage}-bucket"
+
+  Conditions:
+    BucketDoesNotExist:
+      Fn::Not:
+        - Condition: BucketExists
+
+    BucketExists:
+      Fn::Equals:
+        - "true"
+        - "false"
+
+plugins:
+  - serverless-offline
+  - serverless-deployment-bucket
+  - serverless-python-requirements
+
+custom:
+#  bucketName: format-convertor-dev-buck
+  pythonRequirements:
+    dockerizePip: "non-linux"

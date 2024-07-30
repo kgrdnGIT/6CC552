@@ -1,0 +1,56 @@
+service: polynomial-regression
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  region: eu-west-1
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - cloudwatch:*
+        - s3:*
+      Resource: '*'
+
+layers:
+  PolyRegLayer:
+    path: layers
+    name: ${self:service}-${opt:stage}-PolyReg
+    compatibleRuntimes:
+      - python3.11
+
+package:
+  patterns:
+    - '!node_modules/**'
+    - '!layers/**'
+    - '!.venv/**'
+    - '!__pycache__/**'
+    - '!.ipynb_checkpoints/**'
+    - '!(*).ipynb'
+    - '${opt:stage}/**'  # Include stage-specific cod
+
+functions:
+  polyreg:
+    handler: ${opt:stage}/handler.lambda_handler
+    memorySize: 512
+    timeout: 10
+    environment:
+      REGION: eu-west-1
+    events:
+      - http:
+          path: /{polynomial-regression}
+          method: get
+    layers:
+      - !Ref PolyRegLayerLambdaLayer
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-linux"
+

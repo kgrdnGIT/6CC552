@@ -1,0 +1,71 @@
+service: enhanced-image-processing-app
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  region: eu-west-1
+  environment:
+    DYNAMODB_TABLE: ${self:service}-${opt:stage}
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+      Resource: "arn:aws:dynamodb:${aws:region}:*:table/${self:provider.environment.DYNAMODB_TABLE}"
+    - Effect: Allow
+      Action:
+        - s3:*
+      Resource: '*'
+    - Effect: Allow
+      Action:
+        - rekognition:DetectLabels
+      Resource: "*"
+
+package:
+  patterns:
+    - '!node_modules/**'
+    - '!.venv/**'
+    - '!__pycache__/**'
+    - '!.ipynb_checkpoints/**'
+    - '!(*).ipynb'
+    - '${opt:stage}/**'  # Include stage-specific code
+
+functions:
+  process_image:
+    handler: ${opt:stage}/handler.process_image
+    memorySize: 512
+    timeout: 10
+    events:
+      - http:
+          path: process-image
+          method: post
+
+resources:
+  Resources:
+    ImageMetadataTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:provider.environment.DYNAMODB_TABLE}
+        AttributeDefinitions:
+          - AttributeName: image_key
+            AttributeType: S
+        KeySchema:
+          - AttributeName: image_key
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-Linux"
+    #fileName: ${file(./requirements-${opt:stage}.txt)}

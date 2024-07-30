@@ -1,0 +1,7 @@
+@timestamp,@message
+2024-04-24 19:40:13.510,"REPORT RequestId: ad69cb00-bf2f-4d27-b20b-b5e344417639	Duration: 2.33 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 80 MB"
+2024-04-24 19:40:01.753,"REPORT RequestId: fac98248-efda-4b2b-b67e-1a1bf7c1e2b0	Duration: 2.35 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 79 MB"
+2024-04-24 19:39:56.786,"REPORT RequestId: 49bfb348-b3a2-4b22-ae9e-30582c2a3252	Duration: 16.45 ms	Billed Duration: 17 ms	Memory Size: 128 MB	Max Memory Used: 79 MB"
+2024-04-24 19:39:53.087,"REPORT RequestId: cf5700d5-3d50-40ad-92f3-905d2fbced7e	Duration: 271.96 ms	Billed Duration: 272 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 750.75 ms"
+2024-04-24 19:10:31.680,"REPORT RequestId: 080badc3-7a54-42d6-9ebb-427d1efbe168	Duration: 60.18 ms	Billed Duration: 61 ms	Memory Size: 128 MB	Max Memory Used: 79 MB"
+2024-04-24 19:10:25.840,"REPORT RequestId: c0998302-ec74-45d9-895d-61f191f5a3fe	Duration: 277.21 ms	Billed Duration: 278 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 716.57 ms"

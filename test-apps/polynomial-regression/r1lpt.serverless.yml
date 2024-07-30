@@ -1,0 +1,57 @@
+service: polynomial-regression
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+#  stage: dev
+  region: eu-west-1
+  tracing: 
+    apiGateway: true
+    lambda: true 
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+
+# you can add statements to the Lambda function's IAM Role here
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - "xray:PutTraceSegments"
+        - "xray:PutTelemetryRecords"
+        - s3:*
+      Resource: '*'
+
+# you can define service wide environment variables here
+#  environment:
+#    variable1: value1
+
+package:
+  patterns:
+    - '!node_modules/**'
+    - '!layers/**'
+    - '!.venv/**'
+    - '!__pycache__/**'
+    - '!.ipynb_checkpoints/**'
+    - '!(*).ipynb'
+    - '${opt:stage}/**'  # Include stage-specific cod
+
+functions:
+  polyreg:
+    handler: ${opt:stage}/handler.lambda_handler
+    memorySize: 512
+    timeout: 10
+    environment:
+      REGION: eu-west-1
+    events:
+      - http:
+          path: /{polynomial-regression}
+          method: get
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-linux"
+

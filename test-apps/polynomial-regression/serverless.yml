@@ -1,0 +1,52 @@
+# Welcome to Serverless!
+# Happy Coding!
+
+service: polynomial-regression
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.11
+  stage: dev
+  region: eu-west-1
+
+
+  deploymentBucket:
+    name: image-resizing-python-dev-serverlessdeploymentbuck-u9ze93eujzsz
+
+# you can add statements to the Lambda function's IAM Role here
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - "xray:PutTraceSegments"
+        - "xray:PutTelemetryRecords"
+        - s3:*
+      Resource: '*'
+
+# you can define service wide environment variables here
+#  environment:
+#    variable1: value1
+
+package:
+  exclude:
+    - .venv/**
+
+functions:
+  polyreg:
+    handler: handler.lambda_handler
+    environment:
+      REGION: eu-west-1
+    events:
+      - http:
+          path: /{polynomial-regression}
+          method: get
+
+plugins:
+  - serverless-offline
+  - serverless-deployment-bucket
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: "non-linux"
+

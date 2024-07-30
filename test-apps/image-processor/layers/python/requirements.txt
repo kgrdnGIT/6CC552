@@ -1,0 +1,3 @@
+Pillow
+numpy
+aws-lambda-powertools[tracer]

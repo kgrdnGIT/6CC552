@@ -1,0 +1,651 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.poly02": 311,
+      "vusers.created": 900,
+      "http.requests": 900,
+      "vusers.created_by_name.poly03": 308,
+      "http.codes.200": 900,
+      "http.responses": 900,
+      "http.downloaded_bytes": 73492,
+      "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 900,
+      "vusers.failed": 0,
+      "vusers.completed": 900,
+      "vusers.created_by_name.poly01": 281
+    },
+    "rates": {
+      "http.request_rate": 24
+    },
+    "firstCounterAt": 1717182714076,
+    "firstHistogramAt": 1717182715672,
+    "lastCounterAt": 1717182753977,
+    "lastHistogramAt": 1717182753977,
+    "firstMetricAt": 1717182714076,
+    "lastMetricAt": 1717182753977,
+    "period": 1717182750000,
+    "summaries": {
+      "http.response_time": {
+        "min": 29,
+        "max": 1459,
+        "count": 900,
+        "mean": 57.1,
+        "p50": 36.2,
+        "median": 36.2,
+        "p75": 41.7,
+        "p90": 58.6,
+        "p95": 61,
+        "p99": 1043.3,
+        "p999": 1436.8
+      },
+      "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+        "min": 29,
+        "max": 1459,
+        "count": 900,
+        "mean": 57.1,
+        "p50": 36.2,
+        "median": 36.2,
+        "p75": 41.7,
+        "p90": 58.6,
+        "p95": 61,
+        "p99": 1043.3,
+        "p999": 1436.8
+      },
+      "vusers.session_length": {
+        "min": 64.4,
+        "max": 1606.1,
+        "count": 900,
+        "mean": 108.1,
+        "p50": 87.4,
+        "median": 87.4,
+        "p75": 98.5,
+        "p90": 113.3,
+        "p95": 122.7,
+        "p99": 1107.9,
+        "p999": 1587.9
+      }
+    },
+    "histograms": {
+      "http.response_time": {
+        "min": 29,
+        "max": 1459,
+        "count": 900,
+        "mean": 57.1,
+        "p50": 36.2,
+        "median": 36.2,
+        "p75": 41.7,
+        "p90": 58.6,
+        "p95": 61,
+        "p99": 1043.3,
+        "p999": 1436.8
+      },
+      "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+        "min": 29,
+        "max": 1459,
+        "count": 900,
+        "mean": 57.1,
+        "p50": 36.2,
+        "median": 36.2,
+        "p75": 41.7,
+        "p90": 58.6,
+        "p95": 61,
+        "p99": 1043.3,
+        "p999": 1436.8
+      },
+      "vusers.session_length": {
+        "min": 64.4,
+        "max": 1606.1,
+        "count": 900,
+        "mean": 108.1,
+        "p50": 87.4,
+        "median": 87.4,
+        "p75": 98.5,
+        "p90": 113.3,
+        "p95": 122.7,
+        "p99": 1107.9,
+        "p999": 1587.9
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.poly02": 28,
+        "vusers.created": 60,
+        "http.requests": 60,
+        "vusers.created_by_name.poly03": 22,
+        "http.codes.200": 60,
+        "http.responses": 60,
+        "http.downloaded_bytes": 4898,
+        "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 60,
+        "vusers.failed": 0,
+        "vusers.completed": 60,
+        "vusers.created_by_name.poly01": 10
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1717182714076,
+      "firstHistogramAt": 1717182715672,
+      "lastCounterAt": 1717182719994,
+      "lastHistogramAt": 1717182719994,
+      "firstMetricAt": 1717182714076,
+      "lastMetricAt": 1717182719994,
+      "period": "1717182710000",
+      "summaries": {
+        "http.response_time": {
+          "min": 35,
+          "max": 1459,
+          "count": 60,
+          "mean": 292.3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 1085.9,
+          "p95": 1200.1,
+          "p99": 1436.8,
+          "p999": 1436.8
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 35,
+          "max": 1459,
+          "count": 60,
+          "mean": 292.3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 1085.9,
+          "p95": 1200.1,
+          "p99": 1436.8,
+          "p999": 1436.8
+        },
+        "vusers.session_length": {
+          "min": 77.5,
+          "max": 1606.1,
+          "count": 60,
+          "mean": 351.6,
+          "p50": 106.7,
+          "median": 106.7,
+          "p75": 122.7,
+          "p90": 1153.1,
+          "p95": 1326.4,
+          "p99": 1587.9,
+          "p999": 1587.9
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 35,
+          "max": 1459,
+          "count": 60,
+          "mean": 292.3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 1085.9,
+          "p95": 1200.1,
+          "p99": 1436.8,
+          "p999": 1436.8
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 35,
+          "max": 1459,
+          "count": 60,
+          "mean": 292.3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 1085.9,
+          "p95": 1200.1,
+          "p99": 1436.8,
+          "p999": 1436.8
+        },
+        "vusers.session_length": {
+          "min": 77.5,
+          "max": 1606.1,
+          "count": 60,
+          "mean": 351.6,
+          "p50": 106.7,
+          "median": 106.7,
+          "p75": 122.7,
+          "p90": 1153.1,
+          "p95": 1326.4,
+          "p99": 1587.9,
+          "p999": 1587.9
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.poly02": 33,
+        "vusers.created": 100,
+        "http.requests": 100,
+        "http.codes.200": 100,
+        "http.responses": 100,
+        "http.downloaded_bytes": 8162,
+        "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 100,
+        "vusers.failed": 0,
+        "vusers.completed": 100,
+        "vusers.created_by_name.poly03": 38,
+        "vusers.created_by_name.poly01": 29
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1717182720075,
+      "firstHistogramAt": 1717182720161,
+      "lastCounterAt": 1717182729974,
+      "lastHistogramAt": 1717182729974,
+      "firstMetricAt": 1717182720075,
+      "lastMetricAt": 1717182729974,
+      "period": "1717182720000",
+      "summaries": {
+        "http.response_time": {
+          "min": 32,
+          "max": 64,
+          "count": 100,
+          "mean": 44,
+          "p50": 37.7,
+          "median": 37.7,
+          "p75": 55.2,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 61,
+          "p999": 61
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 32,
+          "max": 64,
+          "count": 100,
+          "mean": 44,
+          "p50": 37.7,
+          "median": 37.7,
+          "p75": 55.2,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 61,
+          "p999": 61
+        },
+        "vusers.session_length": {
+          "min": 73.7,
+          "max": 128.4,
+          "count": 100,
+          "mean": 98.3,
+          "p50": 94.6,
+          "median": 94.6,
+          "p75": 111.1,
+          "p90": 117.9,
+          "p95": 120.3,
+          "p99": 125.2,
+          "p999": 125.2
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 32,
+          "max": 64,
+          "count": 100,
+          "mean": 44,
+          "p50": 37.7,
+          "median": 37.7,
+          "p75": 55.2,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 61,
+          "p999": 61
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 32,
+          "max": 64,
+          "count": 100,
+          "mean": 44,
+          "p50": 37.7,
+          "median": 37.7,
+          "p75": 55.2,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 61,
+          "p999": 61
+        },
+        "vusers.session_length": {
+          "min": 73.7,
+          "max": 128.4,
+          "count": 100,
+          "mean": 98.3,
+          "p50": 94.6,
+          "median": 94.6,
+          "p75": 111.1,
+          "p90": 117.9,
+          "p95": 120.3,
+          "p99": 125.2,
+          "p999": 125.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.poly01": 74,
+        "vusers.created": 225,
+        "http.requests": 225,
+        "http.codes.200": 222,
+        "http.responses": 222,
+        "http.downloaded_bytes": 18128,
+        "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 222,
+        "vusers.failed": 0,
+        "vusers.completed": 222,
+        "vusers.created_by_name.poly03": 77,
+        "vusers.created_by_name.poly02": 74
+      },
+      "rates": {
+        "http.request_rate": 23
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1717182730081,
+      "firstHistogramAt": 1717182730181,
+      "lastCounterAt": 1717182739991,
+      "lastHistogramAt": 1717182739971,
+      "firstMetricAt": 1717182730081,
+      "lastMetricAt": 1717182739991,
+      "period": "1717182730000",
+      "summaries": {
+        "http.response_time": {
+          "min": 31,
+          "max": 125,
+          "count": 222,
+          "mean": 41.9,
+          "p50": 37,
+          "median": 37,
+          "p75": 50.9,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 63.4,
+          "p999": 66
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 31,
+          "max": 125,
+          "count": 222,
+          "mean": 41.9,
+          "p50": 37,
+          "median": 37,
+          "p75": 50.9,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 63.4,
+          "p999": 66
+        },
+        "vusers.session_length": {
+          "min": 66.6,
+          "max": 227.1,
+          "count": 222,
+          "mean": 87.5,
+          "p50": 82.3,
+          "median": 82.3,
+          "p75": 96.6,
+          "p90": 108.9,
+          "p95": 117.9,
+          "p99": 125.2,
+          "p999": 133
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 31,
+          "max": 125,
+          "count": 222,
+          "mean": 41.9,
+          "p50": 37,
+          "median": 37,
+          "p75": 50.9,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 63.4,
+          "p999": 66
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 31,
+          "max": 125,
+          "count": 222,
+          "mean": 41.9,
+          "p50": 37,
+          "median": 37,
+          "p75": 50.9,
+          "p90": 58.6,
+          "p95": 59.7,
+          "p99": 63.4,
+          "p999": 66
+        },
+        "vusers.session_length": {
+          "min": 66.6,
+          "max": 227.1,
+          "count": 222,
+          "mean": 87.5,
+          "p50": 82.3,
+          "median": 82.3,
+          "p75": 96.6,
+          "p90": 108.9,
+          "p95": 117.9,
+          "p99": 125.2,
+          "p999": 133
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.200": 336,
+        "http.responses": 336,
+        "http.downloaded_bytes": 27443,
+        "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 336,
+        "vusers.failed": 0,
+        "vusers.completed": 336,
+        "vusers.created_by_name.poly02": 116,
+        "vusers.created": 335,
+        "http.requests": 335,
+        "vusers.created_by_name.poly03": 109,
+        "vusers.created_by_name.poly01": 110
+      },
+      "rates": {
+        "http.request_rate": 34
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1717182740015,
+      "firstHistogramAt": 1717182740015,
+      "lastCounterAt": 1717182749989,
+      "lastHistogramAt": 1717182749989,
+      "firstMetricAt": 1717182740015,
+      "lastMetricAt": 1717182749989,
+      "period": "1717182740000",
+      "summaries": {
+        "http.response_time": {
+          "min": 29,
+          "max": 140,
+          "count": 336,
+          "mean": 39.4,
+          "p50": 36.2,
+          "median": 36.2,
+          "p75": 37.7,
+          "p90": 55.2,
+          "p95": 58.6,
+          "p99": 83.9,
+          "p999": 117.9
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 29,
+          "max": 140,
+          "count": 336,
+          "mean": 39.4,
+          "p50": 36.2,
+          "median": 36.2,
+          "p75": 37.7,
+          "p90": 55.2,
+          "p95": 58.6,
+          "p99": 83.9,
+          "p999": 117.9
+        },
+        "vusers.session_length": {
+          "min": 67.6,
+          "max": 223.5,
+          "count": 336,
+          "mean": 90.2,
+          "p50": 85.6,
+          "median": 85.6,
+          "p75": 94.6,
+          "p90": 106.7,
+          "p95": 117.9,
+          "p99": 172.5,
+          "p999": 219.2
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 29,
+          "max": 140,
+          "count": 336,
+          "mean": 39.4,
+          "p50": 36.2,
+          "median": 36.2,
+          "p75": 37.7,
+          "p90": 55.2,
+          "p95": 58.6,
+          "p99": 83.9,
+          "p999": 117.9
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 29,
+          "max": 140,
+          "count": 336,
+          "mean": 39.4,
+          "p50": 36.2,
+          "median": 36.2,
+          "p75": 37.7,
+          "p90": 55.2,
+          "p95": 58.6,
+          "p99": 83.9,
+          "p999": 117.9
+        },
+        "vusers.session_length": {
+          "min": 67.6,
+          "max": 223.5,
+          "count": 336,
+          "mean": 90.2,
+          "p50": 85.6,
+          "median": 85.6,
+          "p75": 94.6,
+          "p90": 106.7,
+          "p95": 117.9,
+          "p99": 172.5,
+          "p999": 219.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.poly01": 58,
+        "vusers.created": 180,
+        "http.requests": 180,
+        "http.codes.200": 182,
+        "http.responses": 182,
+        "http.downloaded_bytes": 14861,
+        "plugins.metrics-by-endpoint./r2/polynomial-regression/.codes.200": 182,
+        "vusers.failed": 0,
+        "vusers.completed": 182,
+        "vusers.created_by_name.poly03": 62,
+        "vusers.created_by_name.poly02": 60
+      },
+      "rates": {
+        "http.request_rate": 50
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1717182750007,
+      "firstHistogramAt": 1717182750044,
+      "lastCounterAt": 1717182753977,
+      "lastHistogramAt": 1717182753977,
+      "firstMetricAt": 1717182750007,
+      "lastMetricAt": 1717182753977,
+      "period": "1717182750000",
+      "summaries": {
+        "http.response_time": {
+          "min": 30,
+          "max": 73,
+          "count": 182,
+          "mean": 38.1,
+          "p50": 34.8,
+          "median": 34.8,
+          "p75": 37,
+          "p90": 53,
+          "p95": 57.4,
+          "p99": 67.4,
+          "p999": 71.5
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 30,
+          "max": 73,
+          "count": 182,
+          "mean": 38.1,
+          "p50": 34.8,
+          "median": 34.8,
+          "p75": 37,
+          "p90": 53,
+          "p95": 57.4,
+          "p99": 67.4,
+          "p999": 71.5
+        },
+        "vusers.session_length": {
+          "min": 64.4,
+          "max": 245.1,
+          "count": 182,
+          "mean": 91.3,
+          "p50": 87.4,
+          "median": 87.4,
+          "p75": 94.6,
+          "p90": 104.6,
+          "p95": 113.3,
+          "p99": 190.6,
+          "p999": 232.8
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 30,
+          "max": 73,
+          "count": 182,
+          "mean": 38.1,
+          "p50": 34.8,
+          "median": 34.8,
+          "p75": 37,
+          "p90": 53,
+          "p95": 57.4,
+          "p99": 67.4,
+          "p999": 71.5
+        },
+        "plugins.metrics-by-endpoint.response_time./r2/polynomial-regression/": {
+          "min": 30,
+          "max": 73,
+          "count": 182,
+          "mean": 38.1,
+          "p50": 34.8,
+          "median": 34.8,
+          "p75": 37,
+          "p90": 53,
+          "p95": 57.4,
+          "p99": 67.4,
+          "p999": 71.5
+        },
+        "vusers.session_length": {
+          "min": 64.4,
+          "max": 245.1,
+          "count": 182,
+          "mean": 91.3,
+          "p50": 87.4,
+          "median": 87.4,
+          "p75": 94.6,
+          "p90": 104.6,
+          "p95": 113.3,
+          "p99": 190.6,
+          "p999": 232.8
+        }
+      }
+    }
+  ]
+}

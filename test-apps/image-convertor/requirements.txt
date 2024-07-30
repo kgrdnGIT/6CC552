@@ -1,0 +1,3 @@
+#Pillow
+boto3[s3]
+aws-lambda-powertools[tracer]  # Tracer requires AWS X-Ray SDK dependency
